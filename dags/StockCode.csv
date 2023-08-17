@@ -1,0 +1,1605 @@
+Stock_Code,Name_Company,Industry,Exchange,KLCPNY
+APC,CTCP Chiếu xạ An Phú,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,20.121.395
+ASM,CTCP Tập đoàn Sao Mai,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,336.526.752
+BAF,CTCP Nông nghiệp BAF Việt Nam,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,143.520.000
+HAG,CTCP Hoàng Anh Gia Lai,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,927.467.947
+HNG,CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,1.108.553.895
+HSL,CTCP Đầu tư Phát triển Thực phẩm Hồng Hà,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,35.383.508
+NSC,CTCP Tập đoàn Giống cây trồng Việt Nam,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,17.586.988
+SJF,CTCP Đầu tư Sao Thái Dương,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,79.200.000
+SSC,CTCP Giống cây trồng Miền Nam,Sản xuất Nông - Lâm - Ngư nghiệp,HOSE,14.992.367
+CTP,CTCP Minh Khang Capital Trading Public,Sản xuất Nông - Lâm - Ngư nghiệp,HNX,12.099.992
+HKT,CTCP Đầu tư Ego Việt Nam,Sản xuất Nông - Lâm - Ngư nghiệp,HNX,6.135.029
+PSW,CTCP Phân bón và Hóa chất Dầu khí Tây Nam Bộ,Sản xuất Nông - Lâm - Ngư nghiệp,HNX,17.000.000
+VIF,Tổng Công ty Lâm nghiệp Việt Nam - CTCP,Sản xuất Nông - Lâm - Ngư nghiệp,HNX,350.000.000
+APT,CTCP Kinh doanh Thủy Hải Sản Sài Gòn,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,8.800.000
+BHG,CTCP Chè Biển Hồ,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,8.935.643
+CNA,CTCP Tổng Công ty Chè Nghệ An,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,793.917
+CPA,CTCP Cà phê Phước An,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,23.627.990
+DRG,CTCP Cao su Đắk Lắk,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,1.658.400
+FGL,CTCP Cà phê Gia Lai,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,14.676.300
+FRM,CTCP Lâm Nghiệp Sài Gòn,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,11.700.000
+HVA,CTCP Đầu tư HVA,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,13.650.000
+LNC,CTCP Lệ Ninh,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,8.230.067
+MLS,CTCP Chăn nuôi - Mitraco,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,4.000.000
+NSS,CTCP Nông Súc Sản Đồng Nai,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,10.263.942
+PSL,CTCP Chăn nuôi Phú Sơn,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,11.812.500
+SEA,Tổng Công ty Thủy sản Việt Nam - CTCP,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,125.000.000
+SEP,CTCP Tổng Công ty Thương mại Quảng Trị,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,8.400.000
+TAN,CTCP Cà phê Thuận An,Sản xuất Nông - Lâm - Ngư nghiệp,UpCom,1.613.690
+SQC,CTCP Khoáng sản Sài Gòn - Quy Nhơn,Khai khoáng,UpCom,110.000.000
+TMG,CTCP Kim loại màu Thái Nguyên - Vimico,Khai khoáng,UpCom,18.000.000
+PSB,CTCP Đầu tư Dầu khí Sao Mai - Bến Đình,Khai khoáng,UpCom,50.000.000
+POS,"CTCP Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí Biển PTSC",Khai khoáng,UpCom,40.000.000
+MIC,CTCP Kỹ nghệ Khoáng sản Quảng Nam,Khai khoáng,UpCom,5.544.946
+MSR,CTCP Masan High-Tech Materials,Khai khoáng,UpCom,1.099.155.420
+MTA,Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - CTCP,Khai khoáng,UpCom,110.113.591
+VCE,CTCP Xây lắp Môi trường,Khai khoáng,UpCom,5.000.000
+VDB,CTCP Vận tải và Chế biến Than Đông Bắc,Khai khoáng,UpCom,8.678.238
+VIM,CTCP Khoáng sản Viglacera,Khai khoáng,UpCom,1.250.000
+VLB,CTCP Xây dựng và Sản xuất Vật liệu xây dựng Biên Hòa,Khai khoáng,UpCom,46.921.600
+LCM,CTCP Khai thác và Chế biến khoáng sản Lào Cai,Khai khoáng,UpCom,24.633.000
+MGC,CTCP Địa chất mỏ - TKV,Khai khoáng,UpCom,10.800.000
+ITS,CTCP Đầu tư Thương mại và Dịch vụ - Vinacomin,Khai khoáng,UpCom,26.459.924
+KCB,CTCP khoáng Sản và Luyện Kim Cao Bằng,Khai khoáng,UpCom,8.000.000
+KLM,CTCP Kim loại màu Nghệ Tĩnh,Khai khoáng,UpCom,3.885.000
+KSH,CTCP DAMAC GLS,Khai khoáng,UpCom,57.509.675
+HPM,CTCP Xây dựng Thương mại và Khoáng Sản Hoàng Phúc,Khai khoáng,UpCom,3.800.000
+GLC,CTCP Vàng Lào Cai,Khai khoáng,UpCom,10.500.000
+CMI,CTCP CMISTONE Việt Nam,Khai khoáng,UpCom,15.002.500
+CST,CTCP Than Cao Sơn - TKV,Khai khoáng,UpCom,42.846.773
+CTA,CTCP Vinavico,Khai khoáng,UpCom,8.454.381
+DLT,CTCP Du lịch và Thương mại - Vinacomin,Khai khoáng,UpCom,2.500.056
+ATG,CTCP An Trường An,Khai khoáng,UpCom,15.220.000
+BCB,CTCP 397,Khai khoáng,UpCom,5.000.000
+ALV,CTCP Xây dựng ALVICO,Khai khoáng,UpCom,5.657.936
+ACM,CTCP Tập đoàn Khoáng sản Á Cường,Khai khoáng,UpCom,51.000.000
+BMJ,CTCP Khoáng sản Miền Đông AHP,Khai khoáng,UpCom,104.999.978
+TVD,CTCP Than Vàng Danh - Vinacomin,Khai khoáng,HNX,44.962.864
+SPI,CTCP Spiral Galaxy,Khai khoáng,HNX,16.815.000
+TC6,CTCP Than Cọc Sáu - Vinacomin,Khai khoáng,HNX,32.496.105
+TDN,CTCP Than Đèo Nai - Vinacomin,Khai khoáng,HNX,29.439.097
+THT,CTCP Than Hà Tu - Vinacomin,Khai khoáng,HNX,24.569.052
+TMB,CTCP Kinh doanh Than Miền Bắc - Vinacomin,Khai khoáng,HNX,15.000.000
+PVB,CTCP Bọc ống Dầu khí Việt Nam,Khai khoáng,HNX,21.599.998
+PVC,Tổng Công ty Hóa chất và Dịch vụ Dầu khí - CTCP,Khai khoáng,HNX,50.000.000
+PVS,Tổng Công ty cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam,Khai khoáng,HNX,477.966.290
+HLC,CTCP Than Hà Lầm - Vinacomin,Khai khoáng,HNX,25.415.199
+HGM,CTCP Cơ khí và Khoáng sản Hà Giang,Khai khoáng,HNX,12.600.000
+HMR,CTCP Đá Hoàng Mai,Khai khoáng,HNX,5.612.444
+KSQ,CTCP CNC Capital Việt Nam,Khai khoáng,HNX,30.000.000
+KSV,Tổng Công ty Khoáng sản TKV - CTCP,Khai khoáng,HNX,200.000.000
+MDC,CTCP Than Mông Dương - Vinacomin,Khai khoáng,HNX,21.418.346
+NBC,CTCP Than Núi Béo - Vinacomin,Khai khoáng,HNX,36.999.124
+MIM,CTCP Khoáng sản và Cơ khí,Khai khoáng,HNX,3.409.860
+MVB,Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - CTCP,Khai khoáng,HNX,105.000.000
+TNT,CTCP Tập đoàn TNT,Khai khoáng,HOSE,51.000.000
+AMC,CTCP Khoáng sản Á Châu,Khai khoáng,HNX,2.850.000
+BKC,CTCP Khoáng sản Bắc Kạn,Khai khoáng,HNX,11.737.728
+NNC,CTCP Đá Núi Nhỏ,Khai khoáng,HOSE,21.920.000
+PVD,Tổng Công ty cổ phần Khoan và Dịch vụ khoan Dầu khí,Khai khoáng,HOSE,556.296.006
+KSB,CTCP Khoáng sản và Xây dựng Bình Dương,Khai khoáng,HOSE,76.631.202
+MDG,CTCP Miền Đông,Khai khoáng,HOSE,10.889.031
+DHM,CTCP Thương mại và Khai thác Khoáng sản Dương Hiếu,Khai khoáng,HOSE,31.396.180
+DHA,CTCP Hóa An,Khai khoáng,HOSE,15.119.946
+BMC,CTCP Khoáng sản Bình Định,Khai khoáng,HOSE,12.392.630
+C32,CTCP CIC39,Khai khoáng,HOSE,15.030.145
+BWE,CTCP - Tổng công ty nước - môi trường Bình Dương,Tiện ích cộng đồng,HOSE,192.920.000
+CHP,CTCP Thủy điện Miền Trung,Tiện ích cộng đồng,HOSE,146.912.668
+CLW,CTCP Cấp nước Chợ Lớn,Tiện ích cộng đồng,HOSE,13.000.000
+CNG,CTCP CNG Việt Nam,Tiện ích cộng đồng,HOSE,27.000.000
+BTP,CTCP Nhiệt điện Bà Rịa,Tiện ích cộng đồng,HOSE,60.485.600
+ASP,CTCP Tập đoàn Dầu khí An Pha,Tiện ích cộng đồng,HOSE,37.339.929
+DRL,CTCP Thủy điện - Điện Lực 3,Tiện ích cộng đồng,HOSE,9.500.000
+GAS,Tổng Công ty Khí Việt Nam - CTCP,Tiện ích cộng đồng,HOSE,1.913.950.000
+GEG,CTCP Điện Gia Lai,Tiện ích cộng đồng,HOSE,321.936.902
+KHP,CTCP Điện lực Khánh Hòa,Tiện ích cộng đồng,HOSE,60.405.967
+HID,CTCP Halcom Việt Nam,Tiện ích cộng đồng,HOSE,76.765.032
+POW,Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP,Tiện ích cộng đồng,HOSE,2.341.871.600
+PPC,CTCP Nhiệt điện Phả Lại,Tiện ích cộng đồng,HOSE,326.235.000
+S4A,CTCP Thủy điện Sê San 4A,Tiện ích cộng đồng,HOSE,42.200.000
+SBA,CTCP Sông Ba,Tiện ích cộng đồng,HOSE,60.488.261
+NT2,CTCP Điện lực Dầu khí Nhơn Trạch 2,Tiện ích cộng đồng,HOSE,287.876.029
+PGC,Tổng Công ty Gas Petrolimex - CTCP,Tiện ích cộng đồng,HOSE,60.342.638
+PGD,CTCP Phân phối khí thấp áp Dầu khí Việt Nam,Tiện ích cộng đồng,HOSE,89.999.025
+PGV,Tổng Công ty Phát điện 3 - CTCP,Tiện ích cộng đồng,HOSE,1.123.468.046
+BTW,CTCP Cấp nước Bến Thành,Tiện ích cộng đồng,HNX,9.360.000
+VPD,CTCP Phát triển Điện lực Việt Nam,Tiện ích cộng đồng,HOSE,106.589.629
+VSH,CTCP Thủy điện Vĩnh Sơn - Sông Hinh,Tiện ích cộng đồng,HOSE,236.241.246
+UIC,CTCP Đầu tư Phát triển Nhà và Đô thị IDICO,Tiện ích cộng đồng,HOSE,8.000.000
+TTA,CTCP Đầu tư Xây dựng và Phát triển Trường Thành,Tiện ích cộng đồng,HOSE,157.462.937
+TTE,CTCP Đầu tư Năng lượng Trường Thịnh,Tiện ích cộng đồng,HOSE,28.490.400
+TDM,CTCP Nước Thủ Dầu Một,Tiện ích cộng đồng,HOSE,100.000.000
+TDW,CTCP Cấp nước Thủ Đức,Tiện ích cộng đồng,HOSE,8.500.000
+TMP,CTCP Thủy điện Thác Mơ,Tiện ích cộng đồng,HOSE,70.000.000
+SHP,CTCP Thủy điện Miền Nam,Tiện ích cộng đồng,HOSE,101.206.352
+SJD,CTCP Thủy điện Cần Đơn,Tiện ích cộng đồng,HOSE,68.998.620
+TBC,CTCP Thủy điện Thác Bà,Tiện ích cộng đồng,HOSE,63.500.000
+NBP,CTCP Nhiệt điện Ninh Bình,Tiện ích cộng đồng,HNX,12.865.500
+NBW,CTCP Cấp nước Nhà Bè,Tiện ích cộng đồng,HNX,10.900.000
+HJS,CTCP Thủy điện Nậm Mu,Tiện ích cộng đồng,HNX,20.999.900
+IDC,Tổng Công ty IDICO – CTCP,Tiện ích cộng đồng,HNX,329.999.929
+DTK,Tổng Công ty Điện lực TKV - CTCP,Tiện ích cộng đồng,HNX,682.767.475
+GDW,CTCP Cấp nước Gia Định,Tiện ích cộng đồng,HNX,9.500.000
+DDG,CTCP Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương,Tiện ích cộng đồng,HNX,59.839.886
+DNC,CTCP Điện Nước Lắp máy Hải Phòng,Tiện ích cộng đồng,HNX,6.422.258
+SEB,CTCP Đầu tư và Phát triển Điện Miền Trung,Tiện ích cộng đồng,HNX,31.999.969
+PVG,CTCP Kinh doanh LPG Việt Nam,Tiện ích cộng đồng,HNX,36.500.000
+NTH,CTCP Thủy điện Nước Trong,Tiện ích cộng đồng,HNX,10.802.053
+PCG,CTCP Đầu tư Phát triển Gas Đô thị,Tiện ích cộng đồng,HNX,18.870.000
+PGS,CTCP Kinh doanh Khí Miền Nam,Tiện ích cộng đồng,HNX,50.000.000
+PIC,CTCP Đầu tư Điện lực 3,Tiện ích cộng đồng,HNX,33.339.891
+BWA,CTCP Cấp thoát nước và Xây dựng Bảo Lộc,Tiện ích cộng đồng,UpCom,2.700.000
+BWS,CTCP Cấp nước Bà Rịa - Vũng Tàu,Tiện ích cộng đồng,UpCom,90.000.000
+BGW,CTCP Nước sạch Bắc Giang,Tiện ích cộng đồng,UpCom,18.149.446
+BHA,CTCP Thủy điện Bắc Hà,Tiện ích cộng đồng,UpCom,66.000.000
+BLW,CTCP Cấp nước Bạc Liêu,Tiện ích cộng đồng,UpCom,11.168.800
+BNW,CTCP Nước sạch Bắc Ninh,Tiện ích cộng đồng,UpCom,37.549.391
+BRS,CTCP Dịch vụ Đô thị Bà Rịa,Tiện ích cộng đồng,UpCom,4.541.950
+BSA,CTCP Thủy điện Buôn Đôn,Tiện ích cộng đồng,UpCom,65.540.346
+AVC,CTCP Thủy điện A Vương,Tiện ích cộng đồng,UpCom,75.052.052
+BDW,CTCP Cấp thoát nước Bình Định,Tiện ích cộng đồng,UpCom,12.410.800
+DNA,CTCP Điện Nước An Giang,Tiện ích cộng đồng,UpCom,56.329.567
+DNE,CTCP Môi trường Đô thị Đà Nẵng,Tiện ích cộng đồng,UpCom,5.773.600
+DNH,CTCP Thủy điện Đa Nhim - Hàm Thuận - Đa Mi,Tiện ích cộng đồng,UpCom,422.400.000
+DNN,CTCP Cấp nước Đà Nẵng,Tiện ích cộng đồng,UpCom,57.964.061
+DNW,CTCP Cấp nước Đồng Nai,Tiện ích cộng đồng,UpCom,120.000.000
+CTW,CTCP Cấp thoát nước Cần Thơ,Tiện ích cộng đồng,UpCom,28.000.000
+CMW,CTCP Cấp nước Cà Mau,Tiện ích cộng đồng,UpCom,15.534.900
+GLW,CTCP Cấp thoát nước Gia Lai,Tiện ích cộng đồng,UpCom,18.000.000
+GSM,CTCP Thủy điện Hương Sơn,Tiện ích cộng đồng,UpCom,28.562.000
+GHC,CTCP Thủy điện Gia Lai,Tiện ích cộng đồng,UpCom,47.662.500
+DWC,CTCP Cấp nước Đắk Lắk,Tiện ích cộng đồng,UpCom,20.172.800
+DWS,CTCP Cấp nước và Môi trường đô thị Đồng Tháp,Tiện ích cộng đồng,UpCom,25.918.130
+EIC,CTCP EVN Quốc tế,Tiện ích cộng đồng,UpCom,36.677.145
+DTE,CTCP Đầu tư Năng lượng Đại Trường Thành Holdings,Tiện ích cộng đồng,UpCom,50.725.887
+DTV,CTCP Phát triển Điện Trà Vinh,Tiện ích cộng đồng,UpCom,5.280.000
+HWS,CTCP Cấp nước Thừa Thiên Huế,Tiện ích cộng đồng,UpCom,87.600.000
+HND,CTCP Nhiệt điện Hải Phòng,Tiện ích cộng đồng,UpCom,500.000.000
+HPD,CTCP Thủy điện ĐăK Đoa,Tiện ích cộng đồng,UpCom,8.306.590
+HPW,CTCP Cấp nước Hải Phòng,Tiện ích cộng đồng,UpCom,74.206.940
+HDW,CTCP Kinh doanh Nước sạch Hải Dương,Tiện ích cộng đồng,UpCom,31.882.470
+HEP,CTCP Môi trường và Công trình Đô thị Huế,Tiện ích cộng đồng,UpCom,6.000.000
+HGW,CTCP Cấp thoát nước - Công trình Đô thị Hậu Giang,Tiện ích cộng đồng,UpCom,24.878.291
+HNA,CTCP Thủy điện Hủa Na,Tiện ích cộng đồng,UpCom,235.232.210
+KHW,CTCP Cấp thoát nước Khánh Hòa,Tiện ích cộng đồng,UpCom,28.599.996
+ISH,CTCP Thủy điện Srok Phu Miêng IDICO,Tiện ích cộng đồng,UpCom,45.000.000
+LAW,CTCP Cấp thoát nước Long An,Tiện ích cộng đồng,UpCom,12.200.000
+LDW,CTCP Cấp thoát nước Lâm Đồng,Tiện ích cộng đồng,UpCom,78.800.000
+LKW,CTCP Cấp nước Long Khánh,Tiện ích cộng đồng,UpCom,2.500.000
+VMG,CTCP Thương mại và Dịch vụ Dầu khí Vũng Tàu,Tiện ích cộng đồng,UpCom,9.600.000
+VLW,CTCP Cấp nước Vĩnh Long,Tiện ích cộng đồng,UpCom,28.900.000
+VPW,CTCP Cấp thoát nước Số 1 Vĩnh Phúc,Tiện ích cộng đồng,UpCom,11.168.676
+XMP,CTCP Thủy điện Xuân Minh,Tiện ích cộng đồng,UpCom,15.000.000
+VCW,CTCP Đầu tư Nước sạch Sông Đà,Tiện ích cộng đồng,UpCom,75.000.000
+VCP,CTCP Xây Dựng Và Năng Lượng VCP,Tiện ích cộng đồng,UpCom,83.789.658
+UCT,CTCP Đô thị Cần Thơ,Tiện ích cộng đồng,UpCom,5.344.345
+TVW,CTCP Cấp thoát nước Trà Vinh,Tiện ích cộng đồng,UpCom,14.597.860
+VAV,CTCP VIWACO,Tiện ích cộng đồng,UpCom,32.000.000
+MTL,CTCP Dịch vụ Môi trường Đô thị Từ Liêm,Tiện ích cộng đồng,UpCom,6.000.000
+MTG,CTCP MT Gas,Tiện ích cộng đồng,UpCom,6.300.000
+NQB,CTCP Cấp nước Quảng Bình,Tiện ích cộng đồng,UpCom,17.230.204
+NQN,CTCP Nước sạch Quảng Ninh,Tiện ích cộng đồng,UpCom,50.831.593
+NQT,CTCP Nước sạch Quảng Trị,Tiện ích cộng đồng,UpCom,18.233.269
+NS2,CTCP Nước sạch Số 2 Hà Nội,Tiện ích cộng đồng,UpCom,56.800.000
+NSL,CTCP Cấp nước Sơn La,Tiện ích cộng đồng,UpCom,10.000.000
+NTW,CTCP Cấp nước Nhơn Trạch,Tiện ích cộng đồng,UpCom,10.000.000
+NVP,CTCP Nước sạch Vĩnh Phúc,Tiện ích cộng đồng,UpCom,10.963.000
+NAW,CTCP Cấp nước Nghệ An,Tiện ích cộng đồng,UpCom,37.385.983
+NBT,CTCP Cấp thoát nước Bến Tre,Tiện ích cộng đồng,UpCom,29.400.000
+NDW,CTCP Cấp nước Nam Định,Tiện ích cộng đồng,UpCom,34.311.748
+NED,CTCP Đầu tư và Phát triển Điện Tây Bắc,Tiện ích cộng đồng,UpCom,40.500.000
+NLS,CTCP Cấp thoát nước Lạng Sơn,Tiện ích cộng đồng,UpCom,5.009.800
+NNT,CTCP Cấp nước Ninh Thuận,Tiện ích cộng đồng,UpCom,9.490.841
+PJS,CTCP Cấp nước Phú Hòa Tân,Tiện ích cộng đồng,UpCom,9.000.000
+PMW,CTCP Cấp nước Phú Mỹ,Tiện ích cộng đồng,UpCom,49.999.832
+TNW,CTCP Nước sạch Thái Nguyên,Tiện ích cộng đồng,UpCom,16.000.000
+TOW,CTCP Cấp nước Trà Nóc - Ô Môn,Tiện ích cộng đồng,UpCom,7.978.150
+TQW,CTCP Cấp thoát nước Tuyên Quang,Tiện ích cộng đồng,UpCom,8.933.200
+THN,CTCP Cấp nước Thanh Hóa,Tiện ích cộng đồng,UpCom,32.995.411
+THU,CTCP Môi trường và Công trình Đô thị Thanh Hóa,Tiện ích cộng đồng,UpCom,3.297.790
+THW,CTCP Cấp nước Tân Hòa,Tiện ích cộng đồng,UpCom,5.000.000
+SP2,CTCP Thủy điện Sử Pán 2,Tiện ích cộng đồng,UpCom,20.746.000
+STW,CTCP Cấp nước Sóc Trăng,Tiện ích cộng đồng,UpCom,15.863.133
+TAW,CTCP Cấp nước Trung An,Tiện ích cộng đồng,UpCom,5.000.000
+SVH,CTCP Thủy điện Sông Vàng,Tiện ích cộng đồng,UpCom,14.820.662
+TDB,CTCP Thủy điện Định Bình,Tiện ích cộng đồng,UpCom,8.230.000
+SII,CTCP Hạ tầng Nước Sài Gòn,Tiện ích cộng đồng,UpCom,64.522.104
+SIP,CTCP Đầu tư Sài Gòn VRG,Tiện ích cộng đồng,UpCom,90.904.146
+SD3,CTCP Sông Đà 3,Tiện ích cộng đồng,UpCom,15.999.356
+QNU,CTCP Môi trường Đô thị Quảng Nam,Tiện ích cộng đồng,UpCom,6.800.000
+QNW,CTCP Cấp thoát nước và Xây dựng Quảng Ngãi,Tiện ích cộng đồng,UpCom,20.000.000
+QPH,CTCP Thủy điện Quế Phong,Tiện ích cộng đồng,UpCom,18.583.100
+PWS,CTCP Cấp thoát nước Phú Yên,Tiện ích cộng đồng,UpCom,38.398.179
+QTP,CTCP Nhiệt điện Quảng Ninh,Tiện ích cộng đồng,UpCom,450.000.000
+S72,CTCP Sông Đà 7.02,Tiện ích cộng đồng,UpCom,12.000.000
+SBH,CTCP Thủy điện Sông Ba Hạ,Tiện ích cộng đồng,UpCom,124.225.000
+SBM,CTCP Đầu tư Phát triển Bắc Minh,Tiện ích cộng đồng,UpCom,45.044.953
+S96,CTCP Sông Đà 9.06,Xây dựng và bất động sản,UpCom,11.155.532
+S12,CTCP Sông Đà 12,Xây dựng và bất động sản,UpCom,5.000.000
+RCD,CTCP Xây dựng - Địa ốc Cao su,Xây dựng và bất động sản,UpCom,5.300.062
+PXS,CTCP Kết cấu Kim loại và Lắp máy Dầu khí,Xây dựng và bất động sản,UpCom,60.000.000
+PXT,CTCP Xây lắp Đường ống Bể chứa Dầu khí,Xây dựng và bất động sản,UpCom,20.000.000
+QCC,CTCP Đầu tư Xây dựng và Phát triển Hạ tầng Viễn thông,Xây dựng và bất động sản,UpCom,1.500.000
+SD4,CTCP Sông Đà 4,Xây dựng và bất động sản,UpCom,10.300.000
+SD7,CTCP Sông Đà 7,Xây dựng và bất động sản,UpCom,10.600.000
+SD8,CTCP Sông Đà 8,Xây dựng và bất động sản,UpCom,2.800.000
+SDB,CTCP Sông Đà 207,Xây dựng và bất động sản,UpCom,11.000.000
+SDD,CTCP Đầu tư và Xây lắp Sông Đà,Xây dựng và bất động sản,UpCom,16.007.685
+SDJ,CTCP Sông Đà 25,Xây dựng và bất động sản,UpCom,4.343.700
+SD1,CTCP Sông Đà 1,Xây dựng và bất động sản,UpCom,5.000.000
+SD2,CTCP Sông Đà 2,Xây dựng và bất động sản,UpCom,14.423.536
+SDX,CTCP Phòng cháy Chữa cháy và Đầu tư Xây dựng Sông Đà,Xây dựng và bất động sản,UpCom,2.250.000
+SID,CTCP Đầu tư Phát triển Sài Gòn Co.op,Xây dựng và bất động sản,UpCom,100.000.000
+SJC,CTCP Sông Đà 1.01,Xây dựng và bất động sản,UpCom,7.226.082
+SJG,Tổng Công ty Sông Đà - CTCP,Xây dựng và bất động sản,UpCom,449.537.112
+SJM,CTCP Sông Đà 19,Xây dựng và bất động sản,UpCom,5.000.000
+SHG,Tổng Công ty cổ phần Sông Hồng,Xây dựng và bất động sản,UpCom,27.000.000
+TBH,CTCP Tổng Bách Hóa,Xây dựng và bất động sản,UpCom,93.117.800
+TBR,CTCP Địa ốc Tân Bình,Xây dựng và bất động sản,UpCom,8.060.000
+TBT,CTCP Xây dựng Công trình Giao thông Bến Tre,Xây dựng và bất động sản,UpCom,1.656.470
+SZG,CTCP Sonadezi Giang Điền,Xây dựng và bất động sản,UpCom,54.898.000
+TA3,CTCP Đầu tư và Xây lắp Thành An 386,Xây dựng và bất động sản,UpCom,2.309.908
+TA6,CTCP Đầu tư và Xây lắp Thành An 665,Xây dựng và bất động sản,UpCom,3.000.000
+STL,CTCP Sông Đà Thăng Long,Xây dựng và bất động sản,UpCom,15.000.000
+SSH,CTCP Phát triển Sunshine Homes,Xây dựng và bất động sản,UpCom,375.000.000
+SNZ,Tổng Công ty cổ phần Phát triển Khu Công nghiệp,Xây dựng và bất động sản,UpCom,376.500.000
+TL4,Tổng Công ty cổ phần Xây dựng Thủy Lợi 4,Xây dựng và bất động sản,UpCom,16.008.338
+TDI,CTCP Tập đoàn TDI,Xây dựng và bất động sản,UpCom,3.000.000
+TED,Tổng Công ty tư vấn thiết kế giao thông vận tải - CTCP,Xây dựng và bất động sản,UpCom,12.500.000
+TEL,CTCP Phát triển Công trình Viễn thông,Xây dựng và bất động sản,UpCom,5.000.000
+TS3,CTCP Trường Sơn 532,Xây dựng và bất động sản,UpCom,3.851.880
+TNM,CTCP Xuất nhập khẩu và Xây dựng Công trình,Xây dựng và bất động sản,UpCom,5.800.000
+PNT,CTCP Kỹ thuật Xây dựng Phú Nhuận,Xây dựng và bất động sản,UpCom,9.282.802
+PLA,CTCP Đầu tư và Dịch vụ Hạ tầng Xăng dầu,Xây dựng và bất động sản,UpCom,10.000.000
+PHH,CTCP Hồng Hà Việt Nam,Xây dựng và bất động sản,UpCom,20.000.000
+PCC,CTCP Tập đoàn Xây lắp 1 - Petrolimex,Xây dựng và bất động sản,UpCom,11.500.000
+PFL,CTCP Dầu khí Đông Đô,Xây dựng và bất động sản,UpCom,50.000.000
+PPI,CTCP Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương,Xây dựng và bất động sản,UpCom,48.290.629
+PQN,CTCP Dịch vụ Dầu khí Quảng Ngãi PTSC,Xây dựng và bất động sản,UpCom,30.000.000
+PSG,CTCP Đầu Tư và Xây lắp Dầu khí Sài Gòn,Xây dựng và bất động sản,UpCom,35.000.000
+PTN,CTCP Phát triển nhà Khánh Hòa,Xây dựng và bất động sản,UpCom,5.801.924
+PTO,CTCP Dịch vụ - Xây dựng Công trình Bưu Điện,Xây dựng và bất động sản,UpCom,1.200.000
+PVA,CTCP Tổng Công ty Xây lắp Dầu khí Nghệ An,Xây dựng và bất động sản,UpCom,21.846.000
+PVH,CTCP Xây lắp Dầu khí Thanh Hóa,Xây dựng và bất động sản,UpCom,21.000.000
+PVL,CTCP Đầu tư Nhà Đất Việt,Xây dựng và bất động sản,UpCom,50.000.000
+PVV,CTCP Vinaconex 39,Xây dựng và bất động sản,UpCom,30.000.000
+PVX,Tổng Công ty cổ phần Xây lắp Dầu khí Việt Nam,Xây dựng và bất động sản,UpCom,400.000.000
+PVY,CTCP Chế tạo Giàn khoan Dầu khí,Xây dựng và bất động sản,UpCom,59.489.787
+PWA,CTCP Bất động sản Dầu khí,Xây dựng và bất động sản,UpCom,10.000.000
+PXA,CTCP Đầu tư và Thương mại Dầu khí Nghệ An,Xây dựng và bất động sản,UpCom,15.000.000
+PXC,CTCP Phát triển Đô thị Dầu khí,Xây dựng và bất động sản,UpCom,28.068.900
+PXI,CTCP Xây dựng Công nghiệp và Dân dụng Dầu khí,Xây dựng và bất động sản,UpCom,30.000.000
+PXL,CTCP Đầu tư Khu Công nghiệp Dầu khí Long Sơn,Xây dựng và bất động sản,UpCom,82.722.212
+ND2,CTCP Đầu tư và Phát triển Điện Miền Bắc 2,Xây dựng và bất động sản,UpCom,49.993.960
+NTB,CTCP Đầu tư Xây dựng và Khai thác Công trình Giao thông 584,Xây dựng và bất động sản,UpCom,39.779.577
+NTC,CTCP Khu Công nghiệp Nam Tân Uyên,Xây dựng và bất động sản,UpCom,23.999.980
+MGR,CTCP Tập đoàn MGROUP,Xây dựng và bất động sản,UpCom,20.000.000
+MH3,CTCP Khu Công nghiệp Cao su Bình Long,Xây dựng và bất động sản,UpCom,12.000.000
+V11,CTCP Xây dựng Số 11,Xây dựng và bất động sản,UpCom,8.399.889
+V15,CTCP Xây dựng Số 15,Xây dựng và bất động sản,UpCom,10.000.000
+UDC,CTCP Xây dựng và Phát triển Đô thị Tỉnh Bà Rịa Vũng Tàu,Xây dựng và bất động sản,UpCom,35.000.000
+UDJ,CTCP Phát triển Đô thị,Xây dựng và bất động sản,UpCom,16.500.000
+TST,CTCP Dịch vụ Kỹ Thuật Viễn thông,Xây dựng và bất động sản,UpCom,4.800.000
+TV6,CTCP Thương mại Đầu tư xây lắp điện Thịnh Vượng,Xây dựng và bất động sản,UpCom,3.000.000
+VCR,CTCP Đầu tư và Phát triển Du lịch Vinaconex,Xây dựng và bất động sản,UpCom,210.000.000
+VE9,CTCP Đầu tư và Xây dựng VNECO 9,Xây dựng và bất động sản,UpCom,12.523.613
+VES,CTCP Đầu tư và Xây dựng Điện Mêca Vneco,Xây dựng và bất động sản,UpCom,9.007.500
+VIW,Tổng Công ty Đầu tư Nước và Môi trường Việt Nam,Xây dựng và bất động sản,UpCom,58.018.600
+VC5,CTCP Xây dựng Số 5,Xây dựng và bất động sản,UpCom,5.000.000
+VHD,CTCP Đầu tư Phát triển Nhà và Đô Thị VINAHUD,Xây dựng và bất động sản,UpCom,38.000.000
+XDC,CTCP Xây Dựng Công Trình Tân Cảng,Xây dựng và bất động sản,UpCom,8.200
+XDH,CTCP Đầu tư Xây dựng Dân dụng Hà Nội,Xây dựng và bất động sản,UpCom,24.569.992
+XLV,CTCP Xây Lắp và Dịch vụ Sông Đà,Xây dựng và bất động sản,UpCom,3.000.000
+XMC,CTCP Đầu tư và Xây dựng Xuân Mai,Xây dựng và bất động sản,UpCom,67.364.339
+VVN,Tổng Công ty cổ phần Xây dựng Công nghiệp Việt Nam,Xây dựng và bất động sản,UpCom,55.000.000
+VW3,CTCP Viwaseen3,Xây dựng và bất động sản,UpCom,2.000.000
+VXB,CTCP Vật liệu Xây dựng Bến Tre,Xây dựng và bất động sản,UpCom,4.049.006
+VPC,CTCP Đầu tư và Phát triển Năng lượng Việt Nam,Xây dựng và bất động sản,UpCom,5.625.000
+VRG,CTCP Phát triển Đô thị và Khu công nghiệp Cao su Việt Nam,Xây dựng và bất động sản,UpCom,25.894.868
+VSE,CTCP Dịch vụ Đường cao tốc Việt Nam,Xây dựng và bất động sản,UpCom,8.937.250
+VNI,CTCP Đầu tư Bất động sản Việt Nam,Xây dựng và bất động sản,UpCom,10.559.996
+LLM,Tổng Công ty Lắp máy Việt Nam - CTCP,Xây dựng và bất động sản,UpCom,79.726.104
+LM3,CTCP Lilama 3,Xây dựng và bất động sản,UpCom,5.150.000
+LM7,CTCP Lilama 7,Xây dựng và bất động sản,UpCom,5.000.000
+LO5,CTCP Lilama 5,Xây dựng và bất động sản,UpCom,5.149.791
+LMI,CTCP Đầu tư Xây dựng Lắp máy IDICO,Xây dựng và bất động sản,UpCom,5.500.000
+LG9,CTCP Cơ giới và Xây lắp Số 9,Xây dựng và bất động sản,UpCom,5.026.600
+LIC,Tổng Công ty LICOGI - CTCP,Xây dựng và bất động sản,UpCom,90.000.000
+LCS,CTCP Licogi 166,Xây dựng và bất động sản,UpCom,7.600.000
+MES,CTCP Cơ điện Công trình,Xây dựng và bất động sản,UpCom,18.600.000
+MCI,CTCP Đầu tư Xây dựng và Phát triển Vật liệu IDICO,Xây dựng và bất động sản,UpCom,3.500.000
+MEC,CTCP Cơ khí - Lắp máy Sông Đà,Xây dựng và bất động sản,UpCom,8.353.620
+LSG,CTCP Bất động sản Sài Gòn Vina,Xây dựng và bất động sản,UpCom,90.000.000
+LTC,CTCP Điện nhẹ Viễn Thông,Xây dựng và bất động sản,UpCom,4.586.000
+LUT,CTCP Đầu tư Xây dựng Lương Tài,Xây dựng và bất động sản,UpCom,15.000.000
+MA1,CTCP Thiết bị,Xây dựng và bất động sản,UpCom,5.289.715
+ICI,CTCP Đầu tư và Xây dựng Công nghiệp,Xây dựng và bất động sản,UpCom,4.000.000
+ICN,CTCP Đầu tư Xây dựng Dầu khí IDICO,Xây dựng và bất động sản,UpCom,20.399.960
+KAC,CTCP Đầu tư Địa ốc Khang An,Xây dựng và bất động sản,UpCom,23.999.999
+LAI,CTCP Đầu Tư Xây dựng Long An IDICO,Xây dựng và bất động sản,UpCom,8.550.000
+L12,CTCP Licogi 12,Xây dựng và bất động sản,UpCom,7.000.000
+L35,CTCP Cơ khí Lắp máy Lilama,Xây dựng và bất động sản,UpCom,3.265.155
+L44,CTCP Lilama 45.4,Xây dựng và bất động sản,UpCom,4.000.000
+HMS,CTCP Xây dựng Bảo tàng Hồ Chí Minh,Xây dựng và bất động sản,UpCom,9.200.000
+HHR,CTCP Đường sắt Hà Hải,Xây dựng và bất động sản,UpCom,1.380.000
+HEC,CTCP Tư vấn Xây dựng Thủy Lợi II,Xây dựng và bất động sản,UpCom,6.000.000
+HFB,CTCP Công trình Cầu phà Thành phố Hồ Chí Minh,Xây dựng và bất động sản,UpCom,9.100.000
+HCI,CTCP Đầu tư Xây dựng Hà Nội,Xây dựng và bất động sản,UpCom,5.232.000
+HD2,CTCP Đầu tư Phát triển Nhà HUD2,Xây dựng và bất động sản,UpCom,8.962.353
+HD6,CTCP Đầu tư và Phát triển Nhà Số 6 Hà Nội,Xây dựng và bất động sản,UpCom,14.400.000
+HD8,CTCP Đầu tư Phát triển Nhà và Đô thị HUD8,Xây dựng và bất động sản,UpCom,10.000.000
+HC1,CTCP Xây dựng Số 1 Hà Nội,Xây dựng và bất động sản,UpCom,8.000.000
+HC3,CTCP Xây dựng Số 3 Hải Phòng,Xây dựng và bất động sản,UpCom,20.685.717
+HRB,CTCP Harec Đầu tư và Thương mại,Xây dựng và bất động sản,UpCom,6.338.400
+HPI,CTCP Khu công nghiệp Hiệp Phước,Xây dựng và bất động sản,UpCom,60.000.000
+ICC,CTCP Xây dựng Công nghiệp (ICC),Xây dựng và bất động sản,UpCom,3.800.000
+HTE,CTCP Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh,Xây dựng và bất động sản,UpCom,23.608.165
+HTT,CTCP Thương mại Hà Tây,Xây dựng và bất động sản,UpCom,20.000.000
+HU3,CTCP Đầu tư và Xây dựng HUD3,Xây dựng và bất động sản,UpCom,9.999.944
+HU4,CTCP Đầu tư và Xây dựng HUD4,Xây dựng và bất động sản,UpCom,15.000.000
+HU6,CTCP Đầu tư Phát triển Nhà và Đô thị HUD6,Xây dựng và bất động sản,UpCom,7.500.000
+DTI,CTCP Đầu tư Đức Trung,Xây dựng và bất động sản,UpCom,12.097.754
+E12,CTCP Xây dựng Điện VNECO12,Xây dựng và bất động sản,UpCom,1.200.000
+E29,CTCP Đầu tư Xây dựng và Kỹ thuật 29,Xây dựng và bất động sản,UpCom,5.000.000
+DVW,CTCP Dịch vụ và Xây dựng Cấp nước Đồng Nai,Xây dựng và bất động sản,UpCom,2.345.000
+GH3,CTCP Công trình Giao thông Hà Nội,Xây dựng và bất động sản,UpCom,11.500.000
+G36,Tổng Công ty 36 - CTCP,Xây dựng và bất động sản,UpCom,101.756.575
+FTI,CTCP Công nghiệp - Thương mại Hữu Nghị,Xây dựng và bất động sản,UpCom,3.943.710
+FLC,CTCP Tập đoàn FLC,Xây dựng và bất động sản,UpCom,709.997.807
+GTS,CTCP Công trình Giao thông Sài Gòn,Xây dựng và bất động sản,UpCom,28.499.764
+H11,CTCP Xây dựng HUD101,Xây dựng và bất động sản,UpCom,1.060.000
+HAN,Tổng Công ty Xây dựng Hà Nội - CTCP,Xây dựng và bất động sản,UpCom,141.048.000
+CT3,CTCP Đầu tư và Xây dựng Công trình 3,Xây dựng và bất động sản,UpCom,8.799.849
+CT6,CTCP Công trình 6,Xây dựng và bất động sản,UpCom,6.108.078
+DC1,CTCP Đầu tư Phát triển Xây dựng Số 1,Xây dựng và bất động sản,UpCom,4.094.905
+DCF,CTCP Xây dựng và Thiết kế Số 1,Xây dựng và bất động sản,UpCom,15.000.000
+DLM,CTCP Chiếu sáng công cộng Đà Nẵng,Xây dựng và bất động sản,UpCom,1.160.250
+DLR,CTCP Địa ốc Đà Lạt,Xây dựng và bất động sản,UpCom,4.500.000
+DKC,CTCP Chợ Lạng Sơn,Xây dựng và bất động sản,UpCom,2.288.540
+CTN,CTCP Xây dựng Công trình ngầm,Xây dựng và bất động sản,UpCom,6.958.345
+DFF,CTCP Tập đoàn Đua Fat,Xây dựng và bất động sản,UpCom,80.000.000
+DGT,CTCP Công trình Giao thông Đồng Nai,Xây dựng và bất động sản,UpCom,79.000.000
+BII,CTCP Louis Land,Xây dựng và bất động sản,UpCom,57.680.000
+ASA,CTCP ASA,Xây dựng và bất động sản,UpCom,10.000.000
+ATB,CTCP An Thịnh,Xây dựng và bất động sản,UpCom,13.884.000
+B82,CTCP 482,Xây dựng và bất động sản,UpCom,5.000.000
+ACS,CTCP Xây lắp Thương mại 2,Xây dựng và bất động sản,UpCom,4.000.000
+BOT,CTCP BOT Cầu Thái Hà,Xây dựng và bất động sản,UpCom,59.246.800
+C12,CTCP Cầu 12,Xây dựng và bất động sản,UpCom,4.850.000
+C21,CTCP Thế Kỷ 21,Xây dựng và bất động sản,UpCom,19.336.371
+BMN,CTCP 715,Xây dựng và bất động sản,UpCom,2.750.000
+BVL,CTCP BV Land,Xây dựng và bất động sản,UpCom,57.312.800
+C4G,CTCP Tập đoàn CIENCO4,Xây dựng và bất động sản,UpCom,337.077.303
+C92,CTCP Xây dựng và Đầu tư 492,Xây dựng và bất động sản,UpCom,5.312.920
+CC1,Tổng Công ty Xây dựng Số 1 - CTCP,Xây dựng và bất động sản,UpCom,328.934.469
+CC4,CTCP Đầu tư và Xây dựng Số 4,Xây dựng và bất động sản,UpCom,64.000.000
+CDR,CTCP Xây dựng Cao su Đồng Nai,Xây dựng và bất động sản,UpCom,2.133.271
+CH5,CTCP Xây dựng Số 5 Hà Nội,Xây dựng và bất động sản,UpCom,3.732.450
+CHS,CTCP Chiếu sáng Công cộng Thành phố Hồ Chí Minh,Xây dựng và bất động sản,UpCom,28.400.000
+CI5,CTCP Đầu Tư Xây dựng Số 5,Xây dựng và bất động sản,UpCom,2.700.000
+CID,CTCP Xây dựng và Phát triển Cơ sở Hạ tầng,Xây dựng và bất động sản,UpCom,1.082.000
+CIP,CTCP Xây lắp và Sản xuất Công nghiệp,Xây dựng và bất động sản,UpCom,4.545.000
+CLG,CTCP Đầu tư và Phát triển Nhà đất COTEC,Xây dựng và bất động sản,UpCom,21.150.000
+PPS,CTCP Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam,Xây dựng và bất động sản,HNX,15.000.000
+PEN,CTCP Xây lắp III Petrolimex,Xây dựng và bất động sản,HNX,5.000.000
+MST,CTCP Đầu tư MST,Xây dựng và bất động sản,HNX,68.140.691
+PTD,CTCP Thiết kế Xây dựng Thương mại Phúc Thịnh,Xây dựng và bất động sản,HNX,3.200.000
+PV2,CTCP Đầu tư PV2,Xây dựng và bất động sản,HNX,37.350.000
+QTC,CTCP Công trình Giao thông Vận tải Quảng Nam,Xây dựng và bất động sản,HNX,2.700.000
+RCL,CTCP Địa ốc Chợ Lớn,Xây dựng và bất động sản,HNX,13.858.714
+S55,CTCP Sông Đà 505,Xây dựng và bất động sản,HNX,10.000.000
+S99,CTCP SCI,Xây dựng và bất động sản,HNX,93.997.369
+SCG,CTCP Tập Đoàn Xây Dựng SCG,Xây dựng và bất động sản,HNX,85.000.000
+SCI,CTCP SCI E&C,Xây dựng và bất động sản,HNX,25.409.847
+SD5,CTCP Sông Đà 5,Xây dựng và bất động sản,HNX,25.999.848
+SD6,CTCP Sông Đà 6,Xây dựng và bất động sản,HNX,34.771.611
+SD9,CTCP Sông Đà 9,Xây dựng và bất động sản,HNX,34.234.000
+SDT,CTCP Sông Đà 10,Xây dựng và bất động sản,HNX,42.732.311
+SDU,CTCP Đầu tư Xây dựng và Phát triển Đô thị Sông Đà,Xây dựng và bất động sản,HNX,20.000.000
+SIC,CTCP ANI,Xây dựng và bất động sản,HNX,23.999.270
+TIG,CTCP Tập đoàn Đầu tư Thăng Long,Xây dựng và bất động sản,HNX,176.006.485
+TKC,CTCP Xây dựng và Kinh doanh Địa ốc Tân Kỷ,Xây dựng và bất động sản,HNX,15.674.712
+THD,CTCP Thaiholdings,Xây dựng và bất động sản,HNX,350.000.000
+SZB,CTCP Sonadezi Long Bình,Xây dựng và bất động sản,HNX,30.000.000
+TA9,CTCP Xây lắp Thành An 96,Xây dựng và bất động sản,HNX,12.419.787
+SJE,CTCP Sông Đà 11,Xây dựng và bất động sản,HNX,21.971.826
+TTL,Tổng Công ty Thăng Long - CTCP,Xây dựng và bất động sản,HNX,41.908.000
+VC1,CTCP Xây dựng Số 1,Xây dựng và bất động sản,HNX,12.000.000
+VC2,CTCP Đầu tư và Xây dựng Vina2,Xây dựng và bất động sản,HNX,47.199.410
+VC3,CTCP Tập đoàn Nam Mê Kông,Xây dựng và bất động sản,HNX,100.217.588
+VC6,CTCP Xây dựng và Đầu tư Visicons,Xây dựng và bất động sản,HNX,8.799.882
+VC7,CTCP Tập đoàn BGI,Xây dựng và bất động sản,HNX,48.045.592
+VC9,CTCP Xây dựng số 9 - VC9,Xây dựng và bất động sản,HNX,12.000.000
+VCC,CTCP Vinaconex 25,Xây dựng và bất động sản,HNX,12.000.000
+VMC,CTCP Vimeco,Xây dựng và bất động sản,HNX,21.599.583
+V12,CTCP Xây dựng Số 12,Xây dựng và bất động sản,HNX,11.636.000
+V21,CTCP Vinaconex 21,Xây dựng và bất động sản,HNX,11.999.789
+VE1,CTCP Xây dựng Điện VNECO 1,Xây dựng và bất động sản,HNX,6.000.000
+VE2,CTCP Xây dựng Điện VNECO 2,Xây dựng và bất động sản,HNX,2.158.880
+VE3,CTCP Xây dựng Điện VNECO 3,Xây dựng và bất động sản,HNX,1.319.710
+VE4,CTCP Xây dựng Điện VNECO4,Xây dựng và bất động sản,HNX,1.028.000
+VE8,CTCP Xây dựng Điện VNECO 8,Xây dựng và bất động sản,HNX,1.800.000
+CTX,Tổng Công ty cổ phần Đầu tư Xây dựng và Thương mại Việt Nam,Xây dựng và bất động sản,HNX,78.907.276
+CSC,CTCP Tập đoàn COTANA,Xây dựng và bất động sản,HNX,31.174.719
+CX8,CTCP Đầu tư và Xây lắp Constrexim Số 8,Xây dựng và bất động sản,HNX,2.110.586
+D11,CTCP Địa ốc 11,Xây dựng và bất động sản,HNX,6.551.965
+C69,CTCP Xây dựng 1369,Xây dựng và bất động sản,HNX,60.000.000
+CEO,CTCP Tập đoàn C.E.O,Xây dựng và bất động sản,HNX,257.339.985
+CMS,CTCP Tập Đoàn CMH Việt Nam,Xây dựng và bất động sản,HNX,25.452.500
+DTD,CTCP Đầu tư Phát triển Thành Đạt,Xây dựng và bất động sản,HNX,42.908.789
+DIH,CTCP Đầu tư Phát triển Xây dựng - Hội An,Xây dựng và bất động sản,HNX,5.979.962
+DC2,CTCP Đầu tư - Phát triển - Xây dựng (DIC) Số 2,Xây dựng và bất động sản,HNX,7.196.673
+HLD,CTCP Đầu tư và Phát triển Bất động sản HUDLAND,Xây dựng và bất động sản,HNX,20.000.000
+IDJ,CTCP Đầu tư IDJ Việt Nam,Xây dựng và bất động sản,HNX,173.490.193
+IDV,CTCP Phát triển Hạ tầng Vĩnh Phúc,Xây dựng và bất động sản,HNX,30.273.276
+HUT,CTCP Tasco,Xây dựng và bất động sản,HNX,348.631.965
+ICG,CTCP Xây dựng Sông Hồng,Xây dựng và bất động sản,HNX,20.000.000
+KSF,CTCP Tập đoàn Real Tech,Xây dựng và bất động sản,HNX,300.000.000
+KTT,CTCP Tập đoàn Đầu tư KTT,Xây dựng và bất động sản,HNX,2.955.000
+L14,CTCP Licogi 14,Xây dựng và bất động sản,HNX,30.859.515
+L18,CTCP Đầu tư và Xây dựng Số 18,Xây dựng và bất động sản,HNX,38.116.528
+L40,CTCP Đầu Tư và Xây dựng 40,Xây dựng và bất động sản,HNX,3.600.000
+L43,CTCP Lilama 45.3,Xây dựng và bất động sản,HNX,3.500.000
+L61,CTCP Lilama 69-1,Xây dựng và bất động sản,HNX,7.576.200
+L62,CTCP Lilama 69-2,Xây dựng và bất động sản,HNX,8.298.243
+NDN,CTCP Đầu tư Phát triển Nhà Đà Nẵng,Xây dựng và bất động sản,HNX,71.657.936
+NDX,CTCP Xây lắp Phát triển Nhà Đà Nẵng,Xây dựng và bất động sản,HNX,9.987.557
+NRC,CTCP Tập Đoàn Danh Khôi,Xây dựng và bất động sản,HNX,92.597.762
+MCO,CTCP Đầu tư và Xây dựng BDC Việt Nam,Xây dựng và bất động sản,HNX,4.103.929
+LCD,CTCP Lắp máy - Thí nghiệm Cơ điện,Xây dựng và bất động sản,HNX,1.474.000
+LHC,CTCP Đầu tư và Xây dựng Thủy lợi Lâm Đồng,Xây dựng và bất động sản,HNX,14.400.000
+LIG,CTCP Licogi 13,Xây dựng và bất động sản,HNX,95.084.569
+TCD,CTCP Đầu tư Phát triển Công nghiệp và Vận tải,Xây dựng và bất động sản,HOSE,282.680.804
+TCH,CTCP Đầu tư Dịch vụ Tài chính Hoàng Huy,Xây dựng và bất động sản,HOSE,668.215.843
+SZC,CTCP Sonadezi Châu Đức,Xây dựng và bất động sản,HOSE,100.000.000
+SZL,CTCP Sonadezi Long Thành,Xây dựng và bất động sản,HOSE,20.000.000
+SJS,CTCP Đầu tư Phát triển Đô thị và Khu công nghiệp Sông Đà,Xây dựng và bất động sản,HOSE,114.855.540
+SRF,CTCP Searefico,Xây dựng và bất động sản,HOSE,35.566.780
+TGG,CTCP The Golden Group,Xây dựng và bất động sản,HOSE,27.299.990
+TIP,CTCP Phát triển Khu Công nghiệp Tín Nghĩa,Xây dựng và bất động sản,HOSE,65.007.857
+TIX,CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình,Xây dựng và bất động sản,HOSE,30.000.000
+TDC,CTCP Kinh doanh và Phát triển Bình Dương,Xây dựng và bất động sản,HOSE,100.000.000
+TDH,CTCP Phát triển Nhà Thủ Đức,Xây dựng và bất động sản,HOSE,112.652.767
+TN1,CTCP Thương mại Dịch vụ TNS Holdings,Xây dựng và bất động sản,HOSE,43.188.087
+VCG,Tổng Công ty cổ phần Xuất nhập khẩu và Xây dựng Việt Nam,Xây dựng và bất động sản,HOSE,485.879.878
+VIC,Tập đoàn VINGROUP - CTCP,Xây dựng và bất động sản,HOSE,3.813.935.561
+VHM,CTCP Vinhomes,Xây dựng và bất động sản,HOSE,4.354.367.488
+VNE,Tổng Công ty cổ phần Xây dựng Điện Việt Nam,Xây dựng và bất động sản,HOSE,90.432.953
+VSI,CTCP Đầu tư và Xây dựng Cấp thoát nước,Xây dựng và bất động sản,HOSE,13.200.000
+VPH,CTCP Vạn Phát Hưng,Xây dựng và bất động sản,HOSE,95.357.800
+VPI,CTCP Đầu tư Văn Phú - INVEST,Xây dựng và bất động sản,HOSE,241.999.617
+AME,CTCP Alphanam E&C,Xây dựng và bất động sản,HNX,65.200.000
+VRC,CTCP Bất động sản và Đầu tư VRC,Xây dựng và bất động sản,HOSE,50.000.000
+VRE,CTCP Vincom Retail,Xây dựng và bất động sản,HOSE,2.328.818.410
+API,CTCP Đầu tư Châu Á - Thái Bình Dương,Xây dựng và bất động sản,HNX,84.083.976
+BAX,CTCP Thống Nhất,Xây dựng và bất động sản,HNX,8.200.000
+PHC,CTCP Xây dựng Phục Hưng Holdings,Xây dựng và bất động sản,HOSE,50.602.094
+PDR,CTCP Phát triển Bất động sản Phát Đạt,Xây dựng và bất động sản,HOSE,671.646.219
+PC1,CTCP Tập Đoàn PC1,Xây dựng và bất động sản,HOSE,270.433.002
+NTL,CTCP Phát triển Đô thị Từ Liêm,Xây dựng và bất động sản,HOSE,60.989.950
+NVL,CTCP Tập đoàn Đầu tư Địa ốc No Va,Xây dựng và bất động sản,HOSE,1.950.104.538
+NLG,CTCP Đầu tư Nam Long,Xây dựng và bất động sản,HOSE,384.080.300
+NBB,CTCP Đầu tư Năm Bảy Bảy,Xây dựng và bất động sản,HOSE,100.475.656
+NHA,Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội,Xây dựng và bất động sản,HOSE,42.174.520
+SC5,CTCP Xây dựng Số 5,Xây dựng và bất động sản,HOSE,14.984.550
+SCR,CTCP Địa ốc Sài Gòn Thương Tín,Xây dựng và bất động sản,HOSE,395.661.775
+REE,CTCP Cơ Điện Lạnh,Xây dựng và bất động sản,HOSE,409.714.260
+SGR,CTCP Tổng CTCP Địa ốc Sài Gòn,Xây dựng và bất động sản,HOSE,60.000.000
+PTC,CTCP Đầu Tư Icapital,Xây dựng và bất động sản,HOSE,32.307.324
+PTL,CTCP Victory Capital,Xây dựng và bất động sản,HOSE,100.000.000
+QCG,CTCP Quốc Cường Gia Lai,Xây dựng và bất động sản,HOSE,275.129.310
+HHV,CTCP Đầu tư Hạ tầng Giao thông Đèo Cả,Xây dựng và bất động sản,HOSE,329.350.351
+HPX,CTCP Đầu tư Hải Phát,Xây dựng và bất động sản,HOSE,304.168.581
+HQC,CTCP Tư vấn Thương mại Dịch vụ Địa Ốc Hoàng Quân,Xây dựng và bất động sản,HOSE,476.600.000
+HBC,CTCP Tập đoàn Xây dựng Hòa Bình,Xây dựng và bất động sản,HOSE,274.133.270
+HDC,CTCP Phát triển Nhà Bà Rịa - Vũng Tàu,Xây dựng và bất động sản,HOSE,135.104.881
+HDG,CTCP Tập đoàn Hà Đô,Xây dựng và bất động sản,HOSE,244.605.898
+HTI,CTCP Đầu tư Phát triển Hạ tầng IDICO,Xây dựng và bất động sản,HOSE,24.949.200
+HTN,CTCP Hưng Thịnh Incons,Xây dựng và bất động sản,HOSE,89.116.411
+HU1,CTCP Đầu tư và Xây dựng HUD1,Xây dựng và bất động sản,HOSE,10.000.000
+HUB,CTCP Xây lắp Thừa Thiên Huế,Xây dựng và bất động sản,HOSE,22.868.395
+HVH,CTCP Đầu tư và Công nghệ HVC,Xây dựng và bất động sản,HOSE,36.949.995
+KDH,CTCP Đầu tư và Kinh doanh Nhà Khang Điền,Xây dựng và bất động sản,HOSE,716.829.995
+KHG,CTCP Tập đoàn Khải Hoàn Land,Xây dựng và bất động sản,HOSE,449.435.205
+L10,CTCP Lilama 10,Xây dựng và bất động sản,HOSE,9.890.000
+IJC,CTCP Phát triển Hạ tầng Kỹ thuật,Xây dựng và bất động sản,HOSE,251.832.509
+ITA,CTCP Đầu tư và Công nghiệp Tân Tạo,Xây dựng và bất động sản,HOSE,938.463.607
+ITC,CTCP Đầu tư và Kinh doanh Nhà,Xây dựng và bất động sản,HOSE,96.375.409
+KBC,Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP,Xây dựng và bất động sản,HOSE,767.604.759
+LCG,CTCP Lizen,Xây dựng và bất động sản,HOSE,191.641.170
+LDG,CTCP Đầu tư LDG,Xây dựng và bất động sản,HOSE,256.972.585
+LEC,CTCP Bất động sản Điện lực Miền Trung,Xây dựng và bất động sản,HOSE,26.100.000
+LGC,CTCP Đầu tư Cầu đường CII,Xây dựng và bất động sản,HOSE,192.854.765
+LGL,CTCP Đầu tư và Phát triển Đô thị Long Giang,Xây dựng và bất động sản,HOSE,51.500.000
+LHG,CTCP Long Hậu,Xây dựng và bất động sản,HOSE,50.012.010
+KOS,CTCP KOSY,Xây dựng và bất động sản,HOSE,216.481.335
+LM8,CTCP Lilama 18,Xây dựng và bất động sản,HOSE,9.388.682
+EVG,CTCP Tập đoàn EverLand,Xây dựng và bất động sản,HOSE,215.249.836
+HAR,CTCP Đầu tư Thương mại Bất động sản An Dương Thảo Điền,Xây dựng và bất động sản,HOSE,101.350.100
+HAS,CTCP Hacisco,Xây dựng và bất động sản,HOSE,8.000.000
+DPG,CTCP Tập đoàn Đạt Phương,Xây dựng và bất động sản,HOSE,62.999.554
+DIG,Tổng Công ty cổ phần Đầu tư Phát triển Xây dựng,Xây dựng và bất động sản,HOSE,609.851.995
+DC4,CTCP Xây dựng DIC Holdings,Xây dựng và bất động sản,HOSE,52.499.723
+DTA,CTCP Đệ Tam,Xây dựng và bất động sản,HOSE,18.059.832
+DXG,CTCP Tập đoàn Đất Xanh,Xây dựng và bất động sản,HOSE,611.779.002
+DXS,CTCP Dịch vụ Bất động sản Đất Xanh,Xây dựng và bất động sản,HOSE,453.122.377
+DRH,CTCP DRH Holdings,Xây dựng và bất động sản,HOSE,124.353.866
+FCN,CTCP FECON,Xây dựng và bất động sản,HOSE,157.439.005
+FDC,CTCP Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh,Xây dựng và bất động sản,HOSE,38.629.988
+FIR,CTCP Địa ốc First Real,Xây dựng và bất động sản,HOSE,53.537.860
+BCE,CTCP Xây dựng và Giao thông Bình Dương,Xây dựng và bất động sản,HOSE,35.000.000
+BCG,CTCP Tập đoàn Bamboo Capital,Xây dựng và bất động sản,HOSE,533.467.622
+BCM,Tổng Công ty Đầu tư và Phát triển Công nghiệp – CTCP,Xây dựng và bất động sản,HOSE,1.035.000.000
+AGG,CTCP Đầu tư và Phát triển Bất động sản An Gia,Xây dựng và bất động sản,HOSE,125.118.368
+CRE,CTCP Bất động sản Thế Kỷ,Xây dựng và bất động sản,HOSE,463.678.534
+CTD,CTCP Xây dựng Coteccons,Xây dựng và bất động sản,HOSE,78.830.800
+CTI,CTCP Đầu tư Phát triển Cường Thuận IDICO,Xây dựng và bất động sản,HOSE,62.999.997
+D2D,CTCP Phát triển Đô thị Công nghiệp số 2,Xây dựng và bất động sản,HOSE,30.304.758
+CIG,CTCP COMA 18,Xây dựng và bất động sản,HOSE,31.539.947
+CII,CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh,Xây dựng và bất động sản,HOSE,284.019.513
+CKG,CTCP Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang,Xây dựng và bất động sản,HOSE,95.259.361
+CCL,CTCP Đầu Tư và Phát triển Đô Thị Dầu khí Cửu Long,Xây dựng và bất động sản,HOSE,53.199.579
+CDC,CTCP Chương Dương,Xây dựng và bất động sản,HOSE,21.988.716
+C47,CTCP Xây dựng 47,Xây dựng và bất động sản,HOSE,33.039.061
+CAV,CTCP Dây Cáp điện Việt Nam,Sản xuất,HOSE,57.600.000
+BKG,CTCP Đầu tư BKG Việt Nam,Sản xuất,HOSE,68.199.983
+CLC,CTCP Cát Lợi,Sản xuất,HOSE,26.207.583
+CMX,CTCP Camimex Group,Sản xuất,HOSE,101.898.990
+DAG,CTCP Tập đoàn Nhựa Đông Á,Sản xuất,HOSE,59.564.112
+CRC,CTCP Create Capital Việt Nam,Sản xuất,HOSE,30.000.000
+CVT,CTCP CMC,Sản xuất,HOSE,36.690.887
+DAT,CTCP Đầu tư du lịch và Phát triển Thủy sản,Sản xuất,HOSE,62.935.104
+DBC,CTCP Tập đoàn Dabaco Việt Nam,Sản xuất,HOSE,242.001.859
+DBD,CTCP Dược - Trang thiết bị Y tế Bình Định (BIDIPHAR),Sản xuất,HOSE,74.883.559
+CSM,CTCP Công nghiệp Cao su Miền Nam,Sản xuất,HOSE,103.626.467
+CSV,CTCP Hóa chất Cơ bản Miền Nam,Sản xuất,HOSE,44.200.000
+AGM,CTCP Xuất Nhập khẩu An Giang,Sản xuất,HOSE,18.200.000
+ABT,CTCP Xuất nhập khẩu Thủy sản Bến Tre,Sản xuất,HOSE,14.387.207
+ADS,CTCP Damsan,Sản xuất,HOSE,50.779.034
+ANV,CTCP Nam Việt,Sản xuất,HOSE,133.539.625
+AAA,CTCP Nhựa An Phát Xanh,Sản xuất,HOSE,382.274.496
+AAM,CTCP Thủy sản MeKong,Sản xuất,HOSE,12.346.411
+ACC,CTCP Đầu tư và Xây dựng Bình Dương ACC,Sản xuất,HOSE,104.999.993
+ACG,CTCP Gỗ An Cường,Sản xuất,HOSE,135.846.122
+ACL,CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang,Sản xuất,HOSE,50.159.019
+BFC,CTCP Phân bón Bình Điền,Sản xuất,HOSE,57.167.993
+BHN,Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Hà Nội,Sản xuất,HOSE,231.800.000
+APH,CTCP Tập đoàn An Phát Holdings,Sản xuất,HOSE,243.884.268
+BMP,CTCP Nhựa Bình Minh,Sản xuất,HOSE,81.860.938
+BRC,CTCP Cao su Bến Thành,Sản xuất,HOSE,12.374.997
+BBC,CTCP Bibica,Sản xuất,HOSE,18.752.687
+FIT,CTCP Tập đoàn F.I.T,Sản xuất,HOSE,339.933.034
+FMC,CTCP Thực phẩm Sao Ta,Sản xuất,HOSE,65.388.889
+EVE,CTCP Everpia,Sản xuất,HOSE,41.979.773
+DTL,CTCP Đại Thiên Lộc,Sản xuất,HOSE,61.435.604
+DTT,CTCP Kỹ nghệ Đô Thành,Sản xuất,HOSE,8.151.820
+DCL,CTCP Dược phẩm Cửu Long,Sản xuất,HOSE,73.041.030
+DCM,CTCP Phân bón Dầu khí Cà Mau,Sản xuất,HOSE,529.400.000
+DGC,CTCP Tập đoàn Hóa chất Đức Giang,Sản xuất,HOSE,379.779.286
+DLG,CTCP Tập đoàn Đức Long Gia Lai,Sản xuất,HOSE,299.309.720
+DMC,CTCP Xuất nhập khẩu Y Tế Domesco,Sản xuất,HOSE,34.727.465
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí - CTCP,Sản xuất,HOSE,391.400.000
+DPR,CTCP Cao su Đồng Phú,Sản xuất,HOSE,43.442.966
+DQC,CTCP Tập đoàn Điện Quang,Sản xuất,HOSE,34.359.416
+DRC,CTCP Cao su Đà Nẵng,Sản xuất,HOSE,118.792.605
+DHC,CTCP Đông Hải Bến Tre,Sản xuất,HOSE,80.493.048
+DHG,CTCP Dược Hậu Giang,Sản xuất,HOSE,130.746.071
+GMH,CTCP Minh Hưng Quảng Trị,Sản xuất,HOSE,16.500.000
+GTA,CTCP Chế biến gỗ Thuận An,Sản xuất,HOSE,10.400.000
+GVR,Tập đoàn Công nghiệp Cao su Việt Nam - CTCP,Sản xuất,HOSE,4.000.000.000
+FCM,CTCP Khoáng sản FECON,Sản xuất,HOSE,45.099.969
+GDT,CTCP Chế biến Gỗ Đức Thành,Sản xuất,HOSE,21.561.092
+GEX,CTCP Tập đoàn GELEX,Sản xuất,HOSE,851.495.793
+GIL,CTCP Sản xuất Kinh doanh và Xuất nhập khẩu Bình Thạnh,Sản xuất,HOSE,70.000.000
+GMC,CTCP Garmex Sài Gòn,Sản xuất,HOSE,33.000.259
+LIX,CTCP Bột Giặt Lix,Sản xuất,HOSE,32.400.000
+LSS,CTCP Mía Đường Lam Sơn,Sản xuất,HOSE,74.547.993
+MSH,CTCP May Sông Hồng,Sản xuất,HOSE,75.014.100
+MSN,CTCP Tập đoàn Masan,Sản xuất,HOSE,1.423.724.783
+KDC,CTCP Tập đoàn KIDO,Sản xuất,HOSE,279.741.356
+IMP,CTCP Dược phẩm Imexpharm,Sản xuất,HOSE,66.705.370
+LAF,CTCP Chế biến hàng Xuất khẩu Long An,Sản xuất,HOSE,14.728.019
+LBM,CTCP Khoáng sản và Vật liệu Xây dựng Lâm Đồng,Sản xuất,HOSE,20.000.000
+KMR,CTCP Mirae,Sản xuất,HOSE,56.881.443
+HVX,CTCP Xi măng VICEM Hải Vân,Sản xuất,HOSE,38.525.250
+IDI,CTCP Đầu tư và Phát triển Đa Quốc Gia - IDI,Sản xuất,HOSE,227.644.608
+HT1,CTCP Xi Măng Vicem Hà Tiên,Sản xuất,HOSE,381.589.911
+HPG,CTCP Tập đoàn Hòa Phát,Sản xuất,HOSE,5.814.785.700
+HHP,CTCP Giấy Hoàng Hà Hải Phòng,Sản xuất,HOSE,62.023.810
+HCD,CTCP Đầu tư Sản xuất và Thương mại HCD,Sản xuất,HOSE,31.589.802
+HRC,CTCP Cao su Hòa Bình,Sản xuất,HOSE,30.206.622
+HSG,CTCP Tập đoàn Hoa Sen,Sản xuất,HOSE,615.982.309
+HAP,CTCP Tập đoàn Hapaco,Sản xuất,HOSE,111.097.772
+HII,CTCP An Tiến Industries,Sản xuất,HOSE,73.663.016
+RAL,CTCP Bóng đèn Phích nước Rạng Đông,Sản xuất,HOSE,22.947.419
+RDP,CTCP Rạng Đông Holding,Sản xuất,HOSE,49.069.803
+PTB,CTCP Phú Tài,Sản xuất,HOSE,68.038.403
+PNJ,CTCP Vàng bạc Đá quý Phú Nhuận,Sản xuất,HOSE,328.169.188
+POM,CTCP Thép Pomina,Sản xuất,HOSE,279.676.336
+PLP,CTCP Sản xuất và Công nghệ Nhựa Pha Lê,Sản xuất,HOSE,70.000.000
+SFG,CTCP Phân Bón Miền Nam,Sản xuất,HOSE,47.897.333
+SCD,CTCP Nước giải khát Chương Dương,Sản xuất,HOSE,8.500.000
+SBT,CTCP Thành Thành Công - Biên Hòa,Sản xuất,HOSE,740.500.993
+SBV,CTCP Siam Brothers Việt Nam,Sản xuất,HOSE,27.366.476
+SAB,Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn,Sản xuất,HOSE,641.281.186
+SAM,CTCP SAM HOLDINGS,Sản xuất,HOSE,379.960.971
+SAV,CTCP Hợp tác Kinh tế và Xuất nhập khẩu Savimex,Sản xuất,HOSE,18.363.175
+NHH,CTCP Nhựa Hà Nội,Sản xuất,HOSE,72.880.000
+NHT,CTCP Sản xuất và Thương mại Nam Hoa,Sản xuất,HOSE,24.028.169
+NKG,CTCP Thép Nam Kim,Sản xuất,HOSE,263.277.806
+NAF,CTCP Nafoods Group,Sản xuất,HOSE,50.564.152
+MCP,CTCP In và Bao bì Mỹ Châu,Sản xuất,HOSE,15.071.337
+PAC,CTCP Pin Ắc quy Miền Nam,Sản xuất,HOSE,46.471.707
+PAN,CTCP Tập đoàn Pan,Sản xuất,HOSE,216.294.580
+OPC,CTCP Dược phẩm OPC,Sản xuất,HOSE,64.050.892
+PHR,CTCP Cao su Phước Hòa,Sản xuất,HOSE,135.499.198
+BBS,CTCP VICEM Bao bì Bút Sơn,Sản xuất,HNX,6.000.000
+BCC,CTCP Xi măng Bỉm Sơn,Sản xuất,HNX,123.209.812
+BCF,CTCP Thực phẩm Bích Chi,Sản xuất,HNX,27.830.412
+ALT,CTCP Văn hóa Tân Bình,Sản xuất,HNX,6.172.523
+BLF,CTCP Thủy sản Bạc Liêu,Sản xuất,HNX,11.500.000
+BNA,CTCP Đầu tư Sản xuất Bảo Ngọc,Sản xuất,HNX,24.999.855
+BPC,CTCP VICEM Bao bì Bỉm Sơn,Sản xuất,HNX,3.800.000
+YBM,CTCP Khoáng sản Công nghiệp Yên Bái,Sản xuất,HOSE,14.299.880
+VPS,CTCP Thuốc sát trùng Việt Nam (VIPESCO),Sản xuất,HOSE,24.460.792
+VTB,CTCP Viettronics Tân Bình,Sản xuất,HOSE,11.982.050
+VNM,CTCP Sữa Việt Nam,Sản xuất,HOSE,2.089.955.445
+VDP,CTCP Dược phẩm Trung ương VIDIPHA,Sản xuất,HOSE,16.831.904
+VCF,CTCP Vinacafé Biên Hòa,Sản xuất,HOSE,26.579.135
+VHC,CTCP Vĩnh Hoàn,Sản xuất,HOSE,183.376.956
+VAF,CTCP Phân lân Nung chảy Văn Điển,Sản xuất,HOSE,37.665.348
+VCA,CTCP Thép VICASA - VNSTEEL,Sản xuất,HOSE,15.187.322
+TVT,Tổng Công ty Việt Thắng - CTCP,Sản xuất,HOSE,21.000.000
+TYA,CTCP Dây và Cáp Điện Taya Việt Nam,Sản xuất,HOSE,6.134.773
+TNC,CTCP Cao su Thống Nhất,Sản xuất,HOSE,19.250.000
+TMT,CTCP Ô tô TMT,Sản xuất,HOSE,37.287.680
+TTF,CTCP Tập đoàn Kỹ nghệ gỗ Trường Thành,Sản xuất,HOSE,393.548.302
+TPC,CTCP Nhựa Tân Đại Hưng,Sản xuất,HOSE,24.430.596
+TRA,CTCP Traphaco,Sản xuất,HOSE,41.453.673
+TRC,CTCP Cao su Tây Ninh,Sản xuất,HOSE,30.000.000
+TEG,CTCP Năng lượng và Bất động sản Trường Thành,Sản xuất,HOSE,65.591.772
+TDP,CTCP Thuận Đức,Sản xuất,HOSE,75.527.993
+TLD,CTCP Đầu tư Xây dựng và Phát triển Đô thị Thăng Long,Sản xuất,HOSE,74.752.586
+TLG,CTCP Tập đoàn Thiên Long,Sản xuất,HOSE,77.794.453
+THG,CTCP Đầu tư và Xây dựng Tiền Giang,Sản xuất,HOSE,22.957.896
+SMB,CTCP Bia Sài Gòn - Miền Trung,Sản xuất,HOSE,29.846.648
+SPM,CTCP SPM,Sản xuất,HOSE,14.000.000
+SRC,CTCP Cao su Sao Vàng,Sản xuất,HOSE,28.065.765
+SHI,CTCP Quốc tế Sơn Hà,Sản xuất,HOSE,162.176.449
+SHA,CTCP Sơn Hà Sài Gòn,Sản xuất,HOSE,33.446.675
+SVD,CTCP Đầu tư & Thương mại Vũ Đăng,Sản xuất,HOSE,27.605.908
+SVI,CTCP Bao bì Biên Hòa,Sản xuất,HOSE,12.832.437
+SVT,CTCP Công nghệ Sài Gòn Viễn Đông,Sản xuất,HOSE,15.053.369
+STK,CTCP Sợi Thế Kỷ,Sản xuất,HOSE,84.363.825
+TCM,CTCP Dệt may - Đầu tư - Thương mại Thành Công,Sản xuất,HOSE,82.047.127
+TCR,CTCP Công nghiệp Gốm sứ Taicera,Sản xuất,HOSE,10.373.190
+KTS,CTCP Đường Kon Tum,Sản xuất,HNX,5.070.000
+LDP,CTCP Dược Lâm Đồng (Ladophar),Sản xuất,HNX,12.703.167
+MBG,CTCP Tập đoàn MBG,Sản xuất,HNX,120.218.540
+MED,CTCP Dược Trung ương Mediplantex,Sản xuất,HNX,12.410.000
+MCC,CTCP Gạch ngói Cao cấp,Sản xuất,HNX,5.016.124
+MHL,CTCP Minh Hữu Liên,Sản xuất,HNX,5.430.923
+MKV,CTCP Dược thú Y Cai Lậy,Sản xuất,HNX,5.000.038
+NSH,CTCP Tập Đoàn Nhôm Sông Hồng Shalumi,Sản xuất,HNX,20.693.437
+NST,CTCP Ngân Sơn,Sản xuất,HNX,11.202.003
+NAG,CTCP Tập đoàn Nagakawa,Sản xuất,HNX,31.646.541
+NET,CTCP Bột giặt NET,Sản xuất,HNX,22.398.374
+NFC,CTCP Phân lân Ninh Bình,Sản xuất,HNX,15.731.260
+NHC,CTCP Gạch ngói Nhị Hiệp,Sản xuất,HNX,3.041.542
+LAS,CTCP Supe Phốt phát và Hóa chất Lâm Thao,Sản xuất,HNX,112.856.400
+KSD,CTCP Đầu tư DNA,Sản xuất,HNX,12.000.000
+KHS,CTCP Kiên Hùng,Sản xuất,HNX,12.090.969
+KKC,CTCP Tập Đoàn Thành Thái,Sản xuất,HNX,5.200.000
+HVT,CTCP Hóa chất Việt Trì,Sản xuất,HNX,10.988.059
+HTP,CTCP In Sách Giáo khoa Hòa Phát,Sản xuất,HNX,91.804.980
+HOM,CTCP Xi măng VICEM Hoàng Mai,Sản xuất,HNX,74.769.131
+HHC,CTCP Bánh kẹo Hải Hà,Sản xuất,HNX,16.425.000
+INN,CTCP Bao bì và In Nông nghiệp,Sản xuất,HNX,18.000.000
+ITQ,CTCP Tập đoàn Thiên Quang,Sản xuất,HNX,31.843.305
+HCC,CTCP Bê tông Hòa Cầm - Intimex,Sản xuất,HNX,6.518.586
+HDA,CTCP Hãng sơn Đông Á,Sản xuất,HNX,27.599.967
+GKM,CTCP Khang Minh Group,Sản xuất,HNX,26.195.240
+GMX,CTCP Gạch ngói Gốm Xây dựng Mỹ Xuân,Sản xuất,HNX,9.040.697
+HAD,CTCP Bia Hà Nội - Hải Dương,Sản xuất,HNX,4.000.000
+DTC,CTCP Viglacera Đông Triều,Sản xuất,HNX,10.000.000
+DVG,CTCP Tập đoàn Sơn Đại Việt,Sản xuất,HNX,28.000.000
+DVM,CTCP Dược liệu Việt Nam,Sản xuất,HNX,35.650.000
+DTG,CTCP Dược phẩm Tipharco,Sản xuất,HNX,6.315.928
+DZM,CTCP Cơ điện Dzĩ An,Sản xuất,HNX,5.395.985
+CPC,CTCP Thuốc sát trùng Cần Thơ,Sản xuất,HNX,4.303.050
+CLH,CTCP Xi măng La Hiên VVMI,Sản xuất,HNX,12.000.000
+CET,CTCP HTC Holding,Sản xuất,HNX,6.050.000
+CJC,CTCP Cơ điện Miền Trung,Sản xuất,HNX,4.000.000
+BTS,CTCP Xi măng VICEM Bút Sơn,Sản xuất,HNX,123.559.858
+BXH,CTCP VICEM Bao bì Hải Phòng,Sản xuất,HNX,3.012.040
+CAN,CTCP Đồ hộp Hạ Long,Sản xuất,HNX,5.000.000
+CAP,CTCP Lâm Nông sản Thực phẩm Yên Bái,Sản xuất,HNX,10.052.920
+CTB,CTCP Chế tạo Bơm Hải Dương,Sản xuất,HNX,13.680.000
+CTT,CTCP Chế tạo Máy - Vinacomin,Sản xuất,HNX,4.697.351
+DHP,CTCP Điện cơ Hải Phòng,Sản xuất,HNX,9.492.200
+DHT,CTCP Dược phẩm Hà Tây,Sản xuất,HNX,26.408.828
+DNM,Tổng Công ty cổ phần Y tế DANAMECO,Sản xuất,HNX,5.253.070
+DNP,CTCP DNP Holding,Sản xuất,HNX,118.909.913
+DP3,CTCP Dược phẩm Trung ương 3,Sản xuất,HNX,8.600.000
+DPC,CTCP Nhựa Đà Nẵng,Sản xuất,HNX,2.237.280
+VBC,CTCP Nhựa - Bao bì Vinh,Sản xuất,HNX,7.499.972
+VCS,CTCP Vicostone,Sản xuất,HNX,160.000.000
+VDL,CTCP Thực phẩm Lâm Đồng,Sản xuất,HNX,14.657.150
+VIT,CTCP Viglacera Tiên Sơn,Sản xuất,HNX,50.000.000
+VGS,CTCP Ống thép Việt Đức VG PIPE,Sản xuất,HNX,48.427.921
+VHE,CTCP Dược liệu và Thực phẩm Việt Nam,Sản xuất,HNX,33.140.000
+VHL,CTCP Viglacera Hạ Long,Sản xuất,HNX,25.000.000
+TXM,CTCP VICEM Thạch cao Xi măng,Sản xuất,HNX,7.000.000
+SLS,CTCP Mía Đường Sơn La,Sản xuất,HNX,9.791.945
+SMT,CTCP Sametel,Sản xuất,HNX,5.467.432
+SPC,CTCP Bảo vệ Thực vật Sài Gòn,Sản xuất,HNX,10.530.000
+SSM,CTCP Chế tạo kết cấu Thép Vneco.SSM,Sản xuất,HNX,5.501.024
+TAR,CTCP Nông nghiệp Công nghệ cao Trung An,Sản xuất,HNX,78.319.777
+TBX,CTCP Xi măng Thái Bình,Sản xuất,HNX,1.510.280
+TDT,CTCP Đầu tư và Phát triển TDT,Sản xuất,HNX,23.896.534
+TET,CTCP Vải sợi May mặc Miền Bắc,Sản xuất,HNX,5.702.940
+TFC,CTCP Trang,Sản xuất,HNX,16.829.994
+THB,CTCP Bia Hà Nội - Thanh Hóa,Sản xuất,HNX,11.424.570
+STP,CTCP Công nghiệp Thương mại Sông Đà,Sản xuất,HNX,8.045.744
+TKG,CTCP Sản xuất và Thương mại Tùng Khánh,Sản xuất,HNX,6.315.312
+TKU,CTCP Công nghiệp Tung Kuang,Sản xuất,HNX,6.596.372
+TNG,CTCP Đầu tư và Thương mại TNG,Sản xuất,HNX,105.117.758
+TPP,CTCP Tân Phú Việt Nam,Sản xuất,HNX,45.000.000
+TSB,CTCP Ắc quy Tia Sáng,Sản xuất,HNX,6.745.480
+TTC,CTCP Gạch men Thanh Thanh,Sản xuất,HNX,5.992.348
+SJ1,CTCP Nông nghiệp Hùng Hậu,Sản xuất,HNX,23.485.154
+SHE,CTCP Phát triển năng lượng Sơn Hà,Sản xuất,HNX,9.585.511
+SFN,CTCP Dệt lưới Sài Gòn,Sản xuất,HNX,3.000.000
+SGC,CTCP Xuất nhập khẩu Sa Giang,Sản xuất,HNX,7.147.580
+QHD,CTCP Que hàn điện Việt Đức,Sản xuất,HNX,5.524.716
+SDG,CTCP Sadico Cần Thơ,Sản xuất,HNX,7.139.997
+SDN,CTCP Sơn Đồng Nai,Sản xuất,HNX,1.518.218
+SAF,CTCP Lương thực Thực phẩm Safoco,Sản xuất,HNX,12.046.590
+PBP,CTCP Bao bì Dầu khí Việt Nam,Sản xuất,HNX,4.799.516
+PCE,CTCP Phân bón và Hóa chất Dầu khí Miền Trung,Sản xuất,HNX,10.000.000
+NTP,CTCP Nhựa Thiếu niên Tiền Phong,Sản xuất,HNX,129.575.334
+PGN,CTCP Phụ Gia Nhựa,Sản xuất,HNX,8.450.940
+PCH,CTCP Nhựa Picomat,Sản xuất,HNX,20.000.000
+PHN,CTCP Pin Hà Nội,Sản xuất,HNX,7.253.911
+PDB,CTCP Tập đoàn Đầu tư Din Capital,Sản xuất,HNX,8.909.981
+PPP,CTCP Dược phẩm Phong Phú,Sản xuất,HNX,8.799.991
+PLC,Tổng Công ty Hóa dầu Petrolimex - CTCP,Sản xuất,HNX,80.798.839
+PMB,CTCP Phân bón và Hóa chất Dầu khí Miền Bắc,Sản xuất,HNX,12.000.000
+PMC,CTCP Dược phẩm Dược liệu Pharmedic,Sản xuất,HNX,9.332.573
+PMP,CTCP Bao bì đạm Phú Mỹ,Sản xuất,HNX,4.200.000
+PMS,CTCP Cơ khí Xăng dầu,Sản xuất,HNX,7.227.662
+POT,CTCP Thiết bị Bưu điện,Sản xuất,HNX,19.430.006
+CKA,CTCP Cơ Khí An Giang,Sản xuất,UpCom,3.286.404
+CKD,CTCP Cơ khí Đông Anh LICOGI,Sản xuất,UpCom,31.000.000
+CHC,CTCP Cẩm Hà,Sản xuất,UpCom,6.731.596
+CFV,CTCP Cà phê Thắng Lợi,Sản xuất,UpCom,8.096.000
+CGV,CTCP Vinaceglass,Sản xuất,UpCom,9.499.956
+CE1,CTCP Xây dựng và Thiết bị Công nghiệp CIE1,Sản xuất,UpCom,6.000.000
+CEG,CTCP Tập đoàn Xây dựng và Thiết bị Công nghiệp,Sản xuất,UpCom,3.800.000
+CCA,CTCP Xuất nhập khẩu Thuỷ sản Cần Thơ,Sản xuất,UpCom,15.092.326
+CCM,CTCP khoáng sản và Xi măng Cần Thơ,Sản xuất,UpCom,6.199.900
+CDG,CTCP Cầu Đuống,Sản xuất,UpCom,3.464.995
+BVN,CTCP Bông Việt Nam,Sản xuất,UpCom,5.000.000
+CAD,CTCP Chế biến và Xuất nhập khẩu Thủy sản Cadovimex,Sản xuất,UpCom,8.799.927
+CAT,CTCP Thủy sản Cà Mau,Sản xuất,UpCom,9.748.579
+CBI,CTCP Gang thép Cao Bằng,Sản xuất,UpCom,43.006.366
+CBS,CTCP Mía Đường Cao Bằng,Sản xuất,UpCom,5.291.868
+BMV,CTCP Bột mỳ Vinafood 1,Sản xuất,UpCom,24.200.000
+C22,CTCP 22,Sản xuất,UpCom,3.550.000
+BSH,CTCP Bia Sài Gòn - Hà Nội,Sản xuất,UpCom,18.000.000
+BSL,CTCP Bia Sài Gòn - Sông Lam,Sản xuất,UpCom,45.000.000
+BSP,CTCP Bia Sài Gòn - Phú Thọ,Sản xuất,UpCom,12.500.000
+BSQ,CTCP Bia Sài Gòn - Quảng Ngãi,Sản xuất,UpCom,45.000.000
+BSR,CTCP Lọc hóa Dầu Bình Sơn,Sản xuất,UpCom,244.119.369
+BT1,CTCP Bảo vệ Thực vật 1 Trung Ương,Sản xuất,UpCom,5.250.000
+BT6,CTCP Beton 6,Sản xuất,UpCom,32.993.550
+BTB,CTCP Bia Hà Nội - Thái Bình,Sản xuất,UpCom,7.691.226
+BTD,CTCP Bê tông Ly tâm Thủ Đức,Sản xuất,UpCom,6.414.100
+BTG,CTCP Bao bì Tiền Giang,Sản xuất,UpCom,1.190.000
+BTH,CTCP Chế tạo Biến thế và Vật liệu Điện Hà Nội,Sản xuất,UpCom,25.000.000
+BTN,CTCP Gạch Tuy Nen Bình Định,Sản xuất,UpCom,4.465.570
+BQB,CTCP Bia Hà Nội - Quảng Bình,Sản xuất,UpCom,5.800.000
+BRR,CTCP Cao su Bà Rịa,Sản xuất,UpCom,112.500.000
+BSD,"CTCP Bia, Rượu Sài Gòn - Đồng Xuân",Sản xuất,UpCom,3.000.000
+BMG,CTCP May Bình Minh,Sản xuất,UpCom,5.292.000
+BHC,CTCP Bê tông Biên Hòa,Sản xuất,UpCom,4.500.000
+BLT,CTCP Lương thực Bình Định,Sản xuất,UpCom,4.000.000
+AFX,CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang,Sản xuất,UpCom,35.000.000
+AG1,CTCP 28.1,Sản xuất,UpCom,4.863.386
+AGF,CTCP Xuất nhập khẩu Thủy sản An Giang,Sản xuất,UpCom,28.109.743
+AGP,CTCP Dược phẩm Agimexpharm,Sản xuất,UpCom,17.969.247
+AGX,CTCP Thực phẩm Nông Sản xuất khẩu Sài Gòn,Sản xuất,UpCom,10.800.000
+A32,CTCP 32,Sản xuất,UpCom,6.800.000
+VTH,CTCP Dây cáp Điện Việt Thái,Sản xuất,HNX,7.899.989
+X20,CTCP X20,Sản xuất,HNX,17.250.000
+VTZ,CTCP Sản xuất và Thương mại Nhựa Việt Thành,Sản xuất,HNX,23.000.000
+BAL,CTCP Bao bì Bia - Rượu - Nước giải khát,Sản xuất,UpCom,2.000.000
+BBH,CTCP Bao bì Hoàng Thạch,Sản xuất,UpCom,2.047.932
+BBM,CTCP Bia Hà Nội - Nam Định,Sản xuất,UpCom,2.000.000
+BBT,CTCP Bông Bạch Tuyết,Sản xuất,UpCom,9.800.000
+BCA,CTCP B.C.H,Sản xuất,UpCom,19.000.000
+APP,CTCP Phát triển Phụ gia và Sản phẩm Dầu Mỏ,Sản xuất,UpCom,4.724.632
+ATA,CTCP Ntaco,Sản xuất,UpCom,11.999.998
+ACE,CTCP Bê tông Ly tâm An Giang,Sản xuất,UpCom,3.050.781
+AMS,CTCP Cơ khí Xây dựng AMECC,Sản xuất,UpCom,60.000.000
+ANT,CTCP Rau quả Thực phẩm An Giang,Sản xuất,UpCom,8.000.000
+APF,CTCP Nông sản Thực phẩm Quảng Ngãi,Sản xuất,UpCom,22.553.997
+BIO,CTCP Vắc xin và Sinh phẩm Nha Trang,Sản xuất,UpCom,8.562.000
+BKH,CTCP Bánh mứt kẹo Hà Nội,Sản xuất,UpCom,1.750.000
+BHK,CTCP Bia Hà Nội - Kim Bài,Sản xuất,UpCom,3.986.000
+BHP,CTCP Bia Hà Nội - Hải Phòng,Sản xuất,UpCom,9.179.290
+BEL,CTCP Điện tử Biên Hòa,Sản xuất,UpCom,6.000.000
+BDG,CTCP May mặc Bình Dương,Sản xuất,UpCom,24.799.920
+BDT,CTCP Xây lắp và Vật liệu Xây dựng Đồng Tháp,Sản xuất,UpCom,38.600.000
+AVF,CTCP Việt An,Sản xuất,UpCom,43.338.000
+BCP,CTCP Dược ENLIE,Sản xuất,UpCom,6.000.000
+DHB,CTCP Phân đạm và Hóa chất Hà Bắc,Sản xuất,UpCom,272.200.000
+DHD,CTCP Dược Vật tư Y tế Hải Dương,Sản xuất,UpCom,20.399.630
+DHN,CTCP Dược phẩm Hà Nội,Sản xuất,UpCom,6.290.900
+DBM,CTCP Dược - Vật tư Y Tế Đăk Lăk,Sản xuất,UpCom,1.941.588
+DDV,CTCP DAP - VINACHEM,Sản xuất,UpCom,146.109.900
+DFC,CTCP Xích líp Đông Anh,Sản xuất,UpCom,11.400.000
+DM7,CTCP Dệt May 7,Sản xuất,UpCom,15.411.100
+DMN,CTCP Domenal,Sản xuất,UpCom,12.500.000
+DMS,CTCP Hóa phẩm Dầu khí DMC - Miền Nam,Sản xuất,UpCom,4.000.000
+DND,CTCP Đầu tư Xây dựng và Vật liệu Đồng Nai,Sản xuất,UpCom,8.834.000
+DOC,CTCP Vật tư Nông Nghiệp Đồng Nai,Sản xuất,UpCom,10.000.000
+DID,CTCP DIC - Đồng Tiến,Sản xuất,UpCom,15.622.552
+DP2,CTCP Dược phẩm Trung ương 2,Sản xuất,UpCom,20.000.000
+DPH,CTCP Dược phẩm Hải Phòng,Sản xuất,UpCom,3.000.000
+DCG,CTCP Tổng Công ty May Đáp Cầu,Sản xuất,UpCom,6.825.000
+DCR,CTCP Gạch men Cosevco,Sản xuất,UpCom,6.500.000
+DCS,CTCP Tập đoàn Đại Châu,Sản xuất,UpCom,60.310.988
+DCT,CTCP Tấm lợp Vật liệu Xây dựng Đồng Nai,Sản xuất,UpCom,27.223.647
+CQT,CTCP Xi măng Quán Triều VVMI,Sản xuất,UpCom,25.000.000
+CYC,CTCP Gạch men Chang Yih,Sản xuất,UpCom,1.990.530
+DAC,CTCP 382 Đông Anh,Sản xuất,UpCom,1.004.974
+DAN,CTCP Dược Danapha,Sản xuất,UpCom,21.127.000
+BVG,CTCP Group Bắc Việt,Sản xuất,UpCom,9.750.948
+CMF,CTCP Thực phẩm Cholimex,Sản xuất,UpCom,8.100.000
+CMM,CTCP Camimex,Sản xuất,UpCom,56.950.000
+CMN,CTCP Lương thực Thực phẩm Colusa - Miliket,Sản xuất,UpCom,4.800.000
+HAV,CTCP Rượu Hapro,Sản xuất,UpCom,3.297.860
+HBD,CTCP Bao Bì PP Bình Dương,Sản xuất,UpCom,2.011.100
+HBH,CTCP Habeco - Hải Phòng,Sản xuất,UpCom,16.000.000
+HAF,CTCP Thực phẩm Hà Nội,Sản xuất,UpCom,14.500.000
+GTD,CTCP Giầy Thượng Đình,Sản xuất,UpCom,9.300.000
+GND,CTCP Gạch ngói Đồng Nai,Sản xuất,UpCom,9.000.000
+FIC,Tổng Công ty Vật liệu Xây dựng số 1 - CTCP,Sản xuất,UpCom,127.000.000
+FRC,CTCP Lâm đặc sản Xuất khẩu Quảng Nam,Sản xuất,UpCom,3.000.000
+FTM,CTCP Đầu tư và Phát triển Đức Quân,Sản xuất,UpCom,50.000.000
+G20,CTCP Đầu tư Dệt may Vĩnh Phúc,Sản xuất,UpCom,14.400.000
+FSO,CTCP Cơ khí đóng tàu Thủy sản Việt Nam,Sản xuất,UpCom,5.624.966
+FT1,CTCP Phụ tùng Máy số 1,Sản xuất,UpCom,7.079.853
+GAB,CTCP Đầu tư Khai Khoáng và Quản lý Tài sản FLC,Sản xuất,UpCom,14.903.987
+GCF,CTCP Thực phẩm G.C,Sản xuất,UpCom,30.679.999
+GEE,CTCP Điện lực Gelex,Sản xuất,UpCom,300.000.000
+GER,CTCP Thể thao Ngôi sao Geru,Sản xuất,UpCom,2.200.000
+GGG,CTCP Ô tô Giải Phóng,Sản xuất,UpCom,29.388.589
+EPC,CTCP Cà phê Ea Pốk,Sản xuất,UpCom,9.388.500
+FHN,CTCP Xuất nhập khẩu Lương thực Thực phẩm Hà Nội,Sản xuất,UpCom,3.000.000
+FBC,CTCP Cơ khí Phổ Yên,Sản xuất,UpCom,3.700.000
+FCC,CTCP Liên hợp Thực phẩm,Sản xuất,UpCom,5.997.040
+FCS,CTCP Lương thực Thành phố Hồ Chí Minh,Sản xuất,UpCom,29.450.000
+EME,CTCP Điện cơ,Sản xuất,UpCom,3.780.298
+EMG,CTCP Thiết bị Phụ Tùng Cơ Điện,Sản xuất,UpCom,3.000.000
+DTP,CTCP Dược phẩm CPC1 Hà Nội,Sản xuất,UpCom,16.229.042
+DTH,CTCP Dược Vật tư Y Tế Thanh Hóa,Sản xuất,UpCom,7.471.614
+DVN,Tổng Công ty Dược Việt Nam - CTCP,Sản xuất,UpCom,237.000.000
+DRI,CTCP Đầu tư Cao su Đắk Lắk,Sản xuất,UpCom,73.200.000
+DSG,CTCP Kính Đáp Cầu,Sản xuất,UpCom,30.000.000
+HUG,Tổng Công ty May Hưng Yên - CTCP,Sản xuất,UpCom,19.511.389
+HTG,Tổng Công ty cổ phần Dệt may Hòa Thọ,Sản xuất,UpCom,36.002.708
+ICF,CTCP Đầu tư Thương mại Thủy sản,Sản xuất,UpCom,12.807.000
+IBD,CTCP In Tổng hợp Bình Dương,Sản xuất,UpCom,9.000.000
+HPP,CTCP Sơn Hải Phòng,Sản xuất,UpCom,8.007.177
+HVG,CTCP Hùng Vương,Sản xuất,UpCom,227.038.291
+HPB,CTCP Bao bì PP,Sản xuất,UpCom,3.880.000
+HPH,CTCP Hóa Chất Hưng Phát Hà Bắc,Sản xuất,UpCom,8.400.000
+HNF,CTCP Thực phẩm Hữu Nghị,Sản xuất,UpCom,30.000.000
+HNI,CTCP May Hữu Nghị,Sản xuất,UpCom,23.778.900
+HNM,CTCP Sữa Hà Nội,Sản xuất,UpCom,20.000.000
+HNP,CTCP Hanel Xốp nhựa,Sản xuất,UpCom,5.000.000
+HNR,CTCP Rượu và Nước giải khát Hà Nội,Sản xuất,UpCom,20.000.000
+HSI,CTCP Vật tư Tổng hợp và Phân bón Hóa Sinh,Sản xuất,UpCom,10.000.000
+HSM,Tổng Công ty cổ phần Dệt may Hà Nội,Sản xuất,UpCom,20.500.000
+HSP,CTCP Sơn Tổng hợp Hà Nội,Sản xuất,UpCom,12.027.086
+HCB,CTCP Dệt may 29/3,Sản xuất,UpCom,5.199.274
+GVT,CTCP Giấy Việt Trì,Sản xuất,UpCom,11.605.100
+HDP,CTCP Dược Hà Tĩnh,Sản xuất,UpCom,9.934.418
+HDM,CTCP Dệt may Huế,Sản xuất,UpCom,20.096.259
+HJC,CTCP Hòa Việt,Sản xuất,UpCom,12.853.052
+HLA,CTCP Hữu Liên Á Châu,Sản xuất,UpCom,34.459.293
+HLB,CTCP Bia và Nước giải khát Hạ Long,Sản xuất,UpCom,3.000.000
+HEM,CTCP Chế tạo Điện Cơ Hà Nội,Sản xuất,UpCom,38.704.650
+HLS,CTCP Sứ Kỹ thuật Hoàng Liên Sơn,Sản xuất,UpCom,9.628.634
+HLT,CTCP Dệt may Hoàng Thị Loan,Sản xuất,UpCom,5.500.000
+HLY,CTCP Gốm Xây Dựng Yên Hưng,Sản xuất,UpCom,1.000.000
+L45,CTCP Lilama 45.1,Sản xuất,UpCom,4.800.000
+L63,CTCP Lilama 69-3,Sản xuất,UpCom,8.279.361
+KIP,CTCP K.I.P Việt Nam,Sản xuất,UpCom,9.800.000
+KTC,CTCP Thương mại Kiên Giang,Sản xuất,UpCom,36.473.833
+KTL,CTCP Kim Khí Thăng Long,Sản xuất,UpCom,6.519.500
+KVC,CTCP Sản xuất Xuất nhập khẩu Inox Kim Vĩ,Sản xuất,UpCom,49.500.000
+KCE,CTCP Bê tông Ly tâm Điện Lực Khánh Hòa,Sản xuất,UpCom,1.500.000
+KGM,CTCP Xuất nhập khẩu Kiên Giang,Sản xuất,UpCom,25.430.000
+KHD,CTCP Khai thác Chế biến Khoáng sản Hải Dương,Sản xuất,UpCom,3.262.818
+KHL,CTCP Khoáng Sản Và Vật Liệu Xây Dựng Hưng Long,Sản xuất,UpCom,12.000.000
+IDP,CTCP Sữa Quốc tế,Sản xuất,UpCom,58.945.472
+IHK,CTCP In Hàng Không,Sản xuất,UpCom,2.141.928
+JOS,CTCP Chế biến Thủy sản xuất khẩu Minh Hải,Sản xuất,UpCom,15.322.723
+IME,CTCP Cơ khí và Xây lắp Công nghiệp,Sản xuất,UpCom,3.599.948
+IN4,CTCP In Số 4,Sản xuất,UpCom,1.200.000
+IRC,CTCP Cao su Công nghiệp,Sản xuất,UpCom,17.500.000
+MCG,CTCP Năng lượng và Bất động sản MCG,Sản xuất,UpCom,57.510.000
+MCH,CTCP Hàng tiêu dùng Masan,Sản xuất,UpCom,727.461.879
+M10,Tổng Công ty May 10 - CTCP,Sản xuất,UpCom,30.240.000
+LTG,CTCP Tập đoàn Lộc Trời,Sản xuất,UpCom,80.593.340
+MEF,CTCP MEINFA,Sản xuất,UpCom,3.940.522
+MCM,CTCP Giống Bò sữa Mộc Châu,Sản xuất,UpCom,110.000.000
+MGG,Tổng Công ty Đức Giang - CTCP,Sản xuất,UpCom,8.999.622
+LCC,CTCP Xi măng Hồng Phong,Sản xuất,UpCom,5.838.999
+LGM,CTCP Giày da và May mặc Xuất khẩu,Sản xuất,UpCom,7.400.000
+LQN,CTCP Licogi Quảng Ngãi,Sản xuất,UpCom,1.893.540
+LMC,CTCP Long Beach LMC,Sản xuất,UpCom,1.500.000
+VNP,CTCP Nhựa Việt Nam,Sản xuất,UpCom,19.428.913
+VNY,CTCP Thuốc thú y Trung ương I,Sản xuất,UpCom,16.249.969
+VMA,CTCP Công nghiệp Ô tô - Vinacomin,Sản xuất,UpCom,2.700.000
+VKP,CTCP Nhựa Tân Hóa,Sản xuất,UpCom,8.000.000
+VNH,CTCP Đầu tư Việt Việt Nhật,Sản xuất,UpCom,8.023.071
+VLC,Tổng Công ty Chăn Nuôi Việt Nam - CTCP,Sản xuất,UpCom,172.346.173
+VLF,CTCP Lương thực Thực phẩm Vĩnh Long,Sản xuất,UpCom,11.959.982
+VSF,Tổng Công ty Lương thực Miền Nam - CTCP,Sản xuất,UpCom,500.000.000
+VPR,CTCP VinaPrint,Sản xuất,UpCom,4.575.985
+VOC,Tổng Công ty Công Nghiệp Dầu Thực Vật Việt Nam - CTCP,Sản xuất,UpCom,121.800.000
+VSN,CTCP Việt Nam Kỹ nghệ Súc sản,Sản xuất,UpCom,80.914.300
+VTA,CTCP Vitaly,Sản xuất,UpCom,8.000.000
+VTE,CTCP VINACAP Kim Long,Sản xuất,UpCom,15.600.000
+VXP,CTCP Thuốc Thú y Trung ương VETVACO,Sản xuất,UpCom,3.600.000
+WSB,CTCP Bia Sài Gòn - Miền Tây,Sản xuất,UpCom,14.500.000
+VTI,CTCP Sản xuất - Xuất nhập khẩu Dệt may,Sản xuất,UpCom,3.500.000
+VTL,CTCP Vang Thăng Long,Sản xuất,UpCom,10.119.984
+VTQ,CTCP Việt Trung Quảng Bình,Sản xuất,UpCom,17.081.791
+VTS,CTCP Viglacera Từ Sơn,Sản xuất,UpCom,2.000.205
+XMD,CTCP Xuân Mai - Đạo Tú,Sản xuất,UpCom,4.000.000
+XHC,CTCP Xuân Hòa Việt Nam,Sản xuất,UpCom,21.096.500
+X26,CTCP 26,Sản xuất,UpCom,5.000.000
+X77,CTCP Thành An 77,Sản xuất,UpCom,1.340.877
+XPH,CTCP Xà phòng Hà Nội,Sản xuất,UpCom,12.972.475
+YBC,CTCP Xi măng và Khoáng sản Yên Bái,Sản xuất,UpCom,11.800.000
+VHF,CTCP Xây dựng và Chế biến Lương thực Vĩnh Hà,Sản xuất,UpCom,21.500.000
+VHG,CTCP Đầu tư Phát triển Việt Trung Nam,Sản xuất,UpCom,150.000.000
+VHH,CTCP Đầu tư Kinh doanh Nhà Thành Đạt,Sản xuất,UpCom,7.500.000
+VGG,Tổng Công ty cổ phần May Việt Tiến,Sản xuất,UpCom,44.100.000
+VGL,CTCP Mạ Kẽm Công Nghiệp Vingal - Vnsteel,Sản xuất,UpCom,9.325.155
+VIH,CTCP Viglacera Hà Nội,Sản xuất,UpCom,5.600.000
+VGT,Tập đoàn Dệt May Việt Nam,Sản xuất,UpCom,500.000.000
+VET,CTCP Thuốc thú y Trung ương Navetco,Sản xuất,UpCom,16.000.000
+VEA,Tổng Công ty Máy động lực và Máy nông nghiệp Việt Nam – CTCP,Sản xuất,UpCom,1.328.800.000
+VEC,Tổng Công ty cổ phần Điện tử và Tin học Việt Nam,Sản xuất,UpCom,43.800.000
+VCX,CTCP Xi măng Yên Bình,Sản xuất,UpCom,26.530.000
+VDN,CTCP Vinatex Đà Nẵng,Sản xuất,UpCom,3.142.910
+VDT,CTCP Lưới thép Bình Tây,Sản xuất,UpCom,1.965.440
+TTG,CTCP May Thanh Trì,Sản xuất,UpCom,2.000.000
+TVN,Tổng Công ty Thép Việt Nam - CTCP,Sản xuất,UpCom,678.000.000
+TVP,CTCP Dược phẩm TV.Pharm,Sản xuất,UpCom,29.493.529
+TTP,CTCP Bao bì Tân Tiến,Sản xuất,UpCom,14.999.998
+TTS,CTCP Cán Thép Thái Trung,Sản xuất,UpCom,50.800.000
+TW3,CTCP Dược Trung ương 3,Sản xuất,UpCom,1.750.000
+UEM,CTCP Cơ điện Uông Bí - Vinacomin,Sản xuất,UpCom,2.438.100
+UPH,CTCP Dược phẩm TW 25,Sản xuất,UpCom,13.294.641
+VBH,CTCP Điện tử Bình Hòa,Sản xuất,UpCom,2.900.000
+MDF,CTCP Gỗ MDF VRG - Quảng Trị,Sản xuất,UpCom,55.113.595
+MRF,CTCP Merufa,Sản xuất,UpCom,3.675.404
+MPC,CTCP Tập đoàn Thủy sản Minh Phú,Sản xuất,UpCom,399.887.300
+MPT,CTCP Tập đoàn MPT,Sản xuất,UpCom,17.107.164
+MIE,Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP,Sản xuất,UpCom,141.991.500
+MKP,CTCP Hoá - Dược phẩm Mekophar,Sản xuất,UpCom,25.545.867
+MML,CTCP Masan MeatLife,Sản xuất,UpCom,327.132.940
+MNB,Tổng Công ty May Nhà Bè - CTCP,Sản xuất,UpCom,19.110.000
+MTP,CTCP Dược Medipharco,Sản xuất,UpCom,7.455.406
+NTF,CTCP Dược - Vật tư Y tế Nghệ An,Sản xuất,UpCom,6.000.000
+NTT,CTCP Dệt - May Nha Trang,Sản xuất,UpCom,23.500.000
+NSG,CTCP Nhựa Sài Gòn,Sản xuất,UpCom,8.639.208
+NJC,CTCP May Nam Định,Sản xuất,UpCom,3.000.000
+NDC,CTCP Nam Dược,Sản xuất,UpCom,5.964.000
+NDF,CTCP Chế biến Thực phẩm Nông sản xuất khẩu Nam Định,Sản xuất,UpCom,7.853.800
+NDP,CTCP Dược phẩm 2/9,Sản xuất,UpCom,11.100.000
+NDT,Tổng Công ty cổ phần Dệt May Nam Định,Sản xuất,UpCom,15.639.976
+NNG,CTCP Công nghiệp - Dịch vụ - Thương mại Ngọc Nghĩa,Sản xuất,UpCom,81.570.988
+NGC,CTCP Chế biến Thủy sản xuất khẩu Ngô Quyền,Sản xuất,UpCom,2.299.854
+NHP,CTCP Sản xuất Xuất nhập khẩu NHP,Sản xuất,UpCom,27.576.490
+PVM,CTCP Máy - Thiết bị Dầu khí,Sản xuất,UpCom,38.638.600
+PTE,CTCP Xi măng Phú Thọ,Sản xuất,UpCom,12.500.000
+PTG,CTCP May Xuất khẩu Phan Thiết,Sản xuất,UpCom,4.864.385
+PRO,CTCP Procimex Việt Nam,Sản xuất,UpCom,3.000.000
+PRT,Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - CTCP,Sản xuất,UpCom,300.000.000
+PPH,Tổng Công ty cổ phần Phong Phú,Sản xuất,UpCom,74.670.891
+PEC,CTCP Cơ khí Điện lực,Sản xuất,UpCom,3.115.409
+PCM,CTCP Vật liệu Xây dựng Bưu điện,Sản xuất,UpCom,4.000.000
+PAS,CTCP Quốc tế Phương Anh,Sản xuất,UpCom,28.049.968
+PAT,CTCP Phốt Pho Apatit Việt Nam,Sản xuất,UpCom,25.000.000
+PBC,CTCP Dược phẩm Trung Ương 1- Pharbaco,Sản xuất,UpCom,113.299.902
+PBT,CTCP Nhà và Thương mại Dầu khí,Sản xuất,UpCom,17.522.284
+PIS,Tổng Công ty Pisico Bình Định - CTCP,Sản xuất,UpCom,27.500.000
+TMW,CTCP Tổng hợp Gỗ Tân Mai,Sản xuất,UpCom,4.662.350
+TNB,CTCP Thép Nhà Bè - VNSTEEL,Sản xuất,UpCom,14.490.000
+TLT,CTCP Viglacera Thăng Long,Sản xuất,UpCom,6.989.800
+TNS,CTCP Thép tấm lá Thống Nhất,Sản xuất,UpCom,20.000.000
+TS4,CTCP Thủy sản Số 4,Sản xuất,UpCom,16.160.646
+TQN,CTCP Thông Quảng Ninh,Sản xuất,UpCom,3.600.000
+TRT,CTCP RedstarCera,Sản xuất,UpCom,11.000.000
+TDS,CTCP Thép Thủ Đức - VNSTEEL,Sản xuất,UpCom,12.225.393
+THP,CTCP Thủy sản và Thương mại Thuận Phước,Sản xuất,UpCom,21.611.185
+TLI,CTCP May Quốc tế Thắng Lợi,Sản xuất,UpCom,3.000.000
+TIS,CTCP Gang thép Thái Nguyên,Sản xuất,UpCom,184.000.000
+TKA,CTCP Bao bì Tân Khánh An,Sản xuất,UpCom,3.800.000
+TID,CTCP Tổng Công ty Tín Nghĩa,Sản xuất,UpCom,200.000.000
+SCY,CTCP Đóng tàu Sông Cấm,Sản xuất,UpCom,61.968.926
+SPB,CTCP Sợi Phú Bài,Sản xuất,UpCom,9.500.000
+SPD,CTCP Xuất nhập khẩu Thủy sản Miền Trung,Sản xuất,UpCom,12.000.000
+SPH,CTCP Xuất nhập khẩu Thủy sản Hà Nội,Sản xuất,UpCom,10.000.000
+SPV,CTCP Thủy Đặc sản,Sản xuất,UpCom,10.800.000
+SSN,CTCP Xuất nhập khẩu Thủy sản Sài Gòn,Sản xuất,UpCom,39.600.000
+SSF,CTCP Giáo dục G Sài Gòn,Sản xuất,UpCom,3.200.000
+SVG,CTCP Hơi Kỹ nghệ Que hàn,Sản xuất,UpCom,29.350.000
+TB8,CTCP Sản xuất và Kinh doanh Vật tư Thiết bị - VVMI,Sản xuất,UpCom,1.250.000
+TBD,Tổng Công ty Thiết bị Điện Đông Anh - CTCP,Sản xuất,UpCom,32.486.392
+TDF,CTCP Trung Đô,Sản xuất,UpCom,30.000.000
+TCJ,CTCP Tô Châu,Sản xuất,UpCom,10.000.000
+TCK,Tổng Công ty Cơ khí Xây dựng - CTCP,Sản xuất,UpCom,23.850.000
+SGI,CTCP Đầu tư Phát triển Sài Gòn 3 Group,Sản xuất,UpCom,75.464.700
+SGO,CTCP Dầu thực vật Sài Gòn,Sản xuất,UpCom,20.000.000
+SKH,CTCP Nước giải khát Sanest Khánh Hòa,Sản xuất,UpCom,16.126.740
+SKN,CTCP Nước giải khát Sanna Khánh Hòa,Sản xuất,UpCom,5.000.000
+SKV,CTCP Nước giải khát Yến sào Khánh Hòa,Sản xuất,UpCom,23.000.000
+SNC,CTCP Xuất nhập khẩu Thủy sản Năm Căn,Sản xuất,UpCom,5.000.000
+SIV,CTCP SIVICO,Sản xuất,UpCom,3.012.374
+SDY,CTCP Xi măng Sông Đà Yaly,Sản xuất,UpCom,4.500.000
+SCC,CTCP Thương mại Đầu tư SHB,Sản xuất,UpCom,4.884.900
+SCJ,CTCP Xi măng Sài Sơn,Sản xuất,UpCom,57.839.000
+SCL,CTCP Sông Đà Cao Cường,Sản xuất,UpCom,17.278.888
+SDK,CTCP Cơ khí Luyện kim,Sản xuất,UpCom,2.600.000
+QHW,CTCP Nước khoáng Quảng Ninh,Sản xuất,UpCom,8.000.000
+QNC,CTCP Xi măng và Xây dựng Quảng Ninh,Sản xuất,UpCom,60.000.000
+QNS,CTCP Đường Quảng Ngãi,Sản xuất,UpCom,356.939.955
+RBC,CTCP Công nghiệp và Xuất nhập khẩu Cao su,Sản xuất,UpCom,10.030.308
+PX1,CTCP Xi măng Sông Lam 2,Sản xuất,UpCom,20.000.000
+S27,CTCP Sông Đà 27,Sản xuất,UpCom,1.572.833
+RTB,CTCP Cao su Tân Biên,Sản xuất,UpCom,87.945.000
+S74,CTCP Sông Đà 7.04,Sản xuất,UpCom,6.480.000
+SBR,CTCP Cao su Sông Bé,Sản xuất,UpCom,81.396.192
+SBL,CTCP Bia Sài Gòn - Bạc Liêu,Sản xuất,UpCom,12.012.000
+SAP,CTCP In Sách giáo khoa Thành phố Hồ Chí Minh,Sản xuất,UpCom,1.286.984
+SB1,CTCP Bia Sài Gòn - Nghệ Tĩnh,Sản xuất,UpCom,10.500.000
+SDP,CTCP SDP,Bán buôn,UpCom,11.114.472
+SCO,CTCP Công nghiệp Thủy sản,Bán buôn,UpCom,4.200.000
+TIE,CTCP TIE,Bán buôn,UpCom,9.569.900
+TH1,CTCP Xuất nhập khẩu tổng hợp 1 Việt Nam,Bán buôn,UpCom,13.539.267
+TOP,CTCP Phân phối Top One,Bán buôn,UpCom,25.350.000
+POB,CTCP Xăng dầu Dầu khí Thái Bình,Bán buôn,UpCom,10.900.000
+PLO,CTCP Kho Vận Petec,Bán buôn,UpCom,7.192.550
+PMJ,CTCP Vật tư Bưu Điện,Bán buôn,UpCom,1.800.000
+PND,CTCP Xăng dầu Dầu khí Nam Định,Bán buôn,UpCom,6.666.666
+OIL,Tổng Công ty Dầu Việt Nam - CTCP,Bán buôn,UpCom,201.425.936
+PCN,CTCP Hóa phẩm Dầu khí DMC - Miền Bắc,Bán buôn,UpCom,3.924.550
+PCF,CTCP Cà phê PETEC,Bán buôn,UpCom,3.000.000
+PEG,Tổng Công ty Thương mại Kỹ thuật và Đầu tư - CTCP,Bán buôn,UpCom,231.898.919
+POV,CTCP Xăng dầu Dầu khí Vũng Áng,Bán buôn,UpCom,12.499.612
+PVO,CTCP Dầu nhờn PV Oil,Bán buôn,UpCom,8.900.000
+PTV,CTCP Thương mại Dầu khí,Bán buôn,UpCom,20.000.000
+PTX,CTCP Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh,Bán buôn,UpCom,5.847.685
+PXM,CTCP Xây lắp Dầu khí Miền Trung,Bán buôn,UpCom,15.000.000
+NHV,CTCP Sức Khỏe Hồi Sinh Việt Nam,Bán buôn,UpCom,5.480.112
+MTS,CTCP Vật tư - TKV,Bán buôn,UpCom,15.000.000
+MVC,CTCP Vật liệu và Xây dựng Bình Dương,Bán buôn,UpCom,100.000.000
+TVA,CTCP Sứ Viglacera Thanh Trì,Bán buôn,UpCom,6.300.000
+VKC,CTCP VKC Holdings,Bán buôn,UpCom,20.000.000
+YTC,CTCP Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh,Bán buôn,UpCom,3.080.000
+VXT,CTCP Kho vận và Dịch vụ Thương mại,Bán buôn,UpCom,6.011.932
+VVS,CTCP Đầu tư phát triển máy Việt Nam,Bán buôn,UpCom,20.500.000
+LMH,CTCP Quốc Tế Holding,Bán buôn,UpCom,25.629.995
+LPT,CTCP Thương mại và Sản xuất Lập Phương Thành,Bán buôn,UpCom,12.000.000
+IFS,CTCP Thực phẩm Quốc tế,Bán buôn,UpCom,87.140.984
+HKB,CTCP Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc,Bán buôn,UpCom,51.599.999
+HFX,CTCP Sản xuất - Xuất nhập khẩu Thanh Hà,Bán buôn,UpCom,1.270.000
+HSV,CTCP Tập đoàn HSV Việt Nam,Bán buôn,UpCom,15.749.994
+HTM,Tổng Công ty Thương mại Hà Nội - CTCP,Bán buôn,UpCom,220.000.000
+FBA,CTCP Tập đoàn Quốc tế FBA,Bán buôn,UpCom,3.414.900
+GPC,CTCP Tập đoàn Green+,Bán buôn,UpCom,41.594.000
+HAI,CTCP Nông dược H.A.I,Bán buôn,UpCom,182.682.799
+HAM,CTCP Vật tư Hậu Giang,Bán buôn,UpCom,9.638.061
+CMK,CTCP Cơ khí Mạo Khê - Vinacomin,Bán buôn,UpCom,1.432.578
+CNT,CTCP Tập đoàn CNT,Bán buôn,UpCom,40.015.069
+CNC,CTCP Công nghệ Cao Traphaco,Bán buôn,UpCom,11.364.325
+DAS,CTCP Máy - Thiết bị Dầu khí Đà Nẵng,Bán buôn,UpCom,4.200.000
+DPP,CTCP Dược Đồng Nai,Bán buôn,UpCom,3.000.010
+DPS,CTCP Đầu tư Phát triển Sóc Sơn,Bán buôn,UpCom,31.085.257
+DP1,CTCP Dược phẩm Trung ương CPC1,Bán buôn,UpCom,20.979.000
+DDN,CTCP Dược và Thiết bị Y tế Đà Nẵng,Bán buôn,UpCom,15.349.328
+DIC,CTCP Đầu tư và Thương mại DIC,Bán buôn,UpCom,26.585.840
+BIG,CTCP Big Invest Group,Bán buôn,UpCom,5.000.000
+APL,CTCP Cơ khí và Thiết bị áp lực - VVMI,Bán buôn,UpCom,1.200.000
+AMP,CTCP Armephaco,Bán buôn,UpCom,13.000.000
+VTV,CTCP Năng lượng và Môi trường VICEM,Bán buôn,HNX,31.199.825
+CDO,CTCP Tư vấn Thiết kế và Phát triển Đô thị,Bán buôn,UpCom,31.504.975
+CDP,CTCP Dược phẩm Trung ương Codupha,Bán buôn,UpCom,18.270.000
+CEN,CTCP CENCON Việt Nam,Bán buôn,UpCom,21.712.440
+CLX,CTCP Xuất nhập khẩu và Đầu tư Chợ Lớn (CHOLIMEX),Bán buôn,UpCom,86.600.000
+CMD,CTCP Vật liệu Xây dựng và Trang trí nội thất Thành phố Hồ Chí Minh,Bán buôn,UpCom,15.000.000
+PPT,CTCP Petro Times,Bán buôn,HNX,15.000.000
+PPY,CTCP Xăng dầu Dầu khí Phú Yên,Bán buôn,HNX,9.343.974
+PSC,CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn,Bán buôn,HNX,7.200.000
+PSD,CTCP Dịch vụ Phân phối Tổng hợp Dầu khí,Bán buôn,HNX,39.887.409
+PSE,CTCP Phân Bón và Hóa Chất Dầu khí Đông Nam Bộ,Bán buôn,HNX,12.500.000
+PCT,CTCP Vận tải Khí và Hoá chất Việt Nam,Bán buôn,HNX,27.599.896
+SHN,CTCP Đầu tư Tổng hợp Hà Nội,Bán buôn,HNX,129.607.147
+TTH,CTCP Thương mại và Dịch vụ Tiến Thành,Bán buôn,HNX,37.374.846
+THS,CTCP Thanh Hoa - Sông Đà,Bán buôn,HNX,3.000.000
+SRA,CTCP Sara Việt Nam,Bán buôn,HNX,43.199.974
+UNI,CTCP Đầu Tư Và Phát Triển Sao Mai Việt,Bán buôn,HNX,15.617.632
+CVN,CTCP Vinam,Bán buôn,HNX,29.699.991
+CKV,CTCP COKYVINA,Bán buôn,HNX,4.050.000
+CLM,CTCP Xuất nhập khẩu Than - Vinacomin,Bán buôn,HNX,11.000.000
+CMC,CTCP Đầu tư CMC,Bán buôn,HNX,4.561.050
+HAT,CTCP Thương mại Bia Hà Nội,Bán buôn,HNX,3.123.000
+FID,CTCP Đầu tư và Phát triển Doanh nghiệp Việt Nam,Bán buôn,HNX,24.715.958
+GMA,CTCP G-Automobile,Bán buôn,HNX,19.999.999
+KLF,CTCP Đầu tư Thương mại và Xuất nhập khẩu CFS,Bán buôn,HNX,165.352.561
+KMT,CTCP Kim khí Miền Trung,Bán buôn,HNX,9.846.562
+KDM,CTCP Tập Đoàn GCL,Bán buôn,HNX,7.100.000
+MCF,CTCP Xây lắp Cơ khí và Lương thực Thực phẩm,Bán buôn,HNX,10.777.838
+MEL,CTCP Thép Mê Lin,Bán buôn,HNX,15.000.000
+ST8,CTCP Đầu tư phát triển ST8,Bán buôn,HOSE,25.720.902
+SMA,CTCP Thiết bị Phụ tùng Sài Gòn,Bán buôn,HOSE,20.352.836
+SMC,CTCP Đầu tư Thương mại SMC,Bán buôn,HOSE,73.678.587
+TLH,CTCP Tập đoàn Thép Tiến Lên,Bán buôn,HOSE,102.110.621
+TDG,CTCP Đầu tư TDG GLOBAL,Bán buôn,HOSE,18.446.831
+TSC,CTCP Vật tư Kỹ thuật nông nghiệp Cần Thơ,Bán buôn,HOSE,196.858.925
+TTB,CTCP Tập đoàn Tiến Bộ,Bán buôn,HOSE,101.509.583
+TNI,CTCP Tập đoàn Thành Nam,Bán buôn,HOSE,52.500.000
+TNA,CTCP Thương mại Xuất nhập khẩu Thiên Nam,Bán buôn,HOSE,49.576.264
+VFG,CTCP Khử trùng Việt Nam,Bán buôn,HOSE,41.714.614
+VMD,CTCP Y Dược phẩm Vimedimex,Bán buôn,HOSE,15.440.268
+VID,CTCP Đầu tư Phát triển Thương mại Viễn Đông,Bán buôn,HOSE,40.836.069
+VPG,CTCP Đầu tư Thương mại Xuất nhập khẩu Việt Phát,Bán buôn,HOSE,80.198.336
+AMV,CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ,Bán buôn,HNX,131.105.650
+AAV,CTCP AAV Group,Bán buôn,HNX,68.987.661
+ARM,CTCP Xuất nhập khẩu Hàng không,Bán buôn,HNX,3.111.283
+PIT,CTCP Xuất nhập khẩu Petrolimex,Bán buôn,HOSE,15.199.345
+PET,Tổng Công ty cổ phần Dịch vụ Tổng hợp Dầu khí,Bán buôn,HOSE,99.431.997
+NO1,CTCP Tập đoàn 911,Bán buôn,HOSE,24.000.000
+SGT,CTCP Công nghệ Viễn Thông Sài Gòn,Bán buôn,HOSE,148.003.518
+PLX,Tập đoàn Xăng Dầu Việt Nam,Bán buôn,HOSE,1.293.878.081
+PMG,CTCP Đầu tư và Sản xuất Petro Miền Trung,Bán buôn,HOSE,46.336.278
+PSH,CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu,Bán buôn,HOSE,126.196.780
+QBS,CTCP Xuất nhập khẩu Quảng Bình,Bán buôn,HOSE,69.329.928
+HMC,CTCP Kim khí Thành phố Hồ Chí Minh - VNSTEEL,Bán buôn,HOSE,27.299.999
+HHS,CTCP Đầu tư Dịch vụ Hoàng Huy,Bán buôn,HOSE,321.448.153
+HTL,CTCP Kỹ thuật và Ô tô Trường Long,Bán buôn,HOSE,12.000.000
+JVC,CTCP Thiết bị Y tế Việt Nhật,Bán buôn,HOSE,112.500.171
+DGW,CTCP Thế Giới Số,Bán buôn,HOSE,163.229.943
+DXV,CTCP VICEM Vật liệu Xây dựng Đà Nẵng,Bán buôn,HOSE,9.900.000
+AAT,CTCP Tập Đoàn Tiên Sơn Thanh Hóa,Bán buôn,HOSE,63.801.489
+ABR,CTCP Đầu tư Nhãn hiệu Việt,Bán buôn,HOSE,20.000.000
+ABS,CTCP Dịch vụ Nông nghiệp Bình Thuận,Bán buôn,HOSE,80.000.000
+DBT,CTCP Dược phẩm Bến Tre,Bán buôn,HOSE,15.625.477
+COM,CTCP Vật tư Xăng Dầu,Bán lẻ,HOSE,14.120.628
+CTF,CTCP City Auto,Bán lẻ,HOSE,76.017.542
+CMV,CTCP Thương nghiệp Cà Mau,Bán lẻ,HOSE,18.155.868
+CCI,CTCP Đầu tư Phát triển Công nghiệp Thương mại Củ Chi,Bán lẻ,HOSE,17.743.865
+BTT,CTCP Thương mại Dịch vụ Bến Thành,Bán lẻ,HOSE,13.500.000
+AST,CTCP Dịch vụ Hàng không Taseco,Bán lẻ,HOSE,45.000.000
+HAX,CTCP Dịch vụ Ô tô Hàng Xanh,Bán lẻ,HOSE,89.927.565
+FRT,CTCP Bán lẻ Kỹ thuật số FPT,Bán lẻ,HOSE,136.242.389
+MWG,CTCP Đầu tư Thế giới Di động,Bán lẻ,HOSE,1.463.376.716
+PNC,CTCP Văn hóa Phương Nam,Bán lẻ,HOSE,11.040.241
+SFC,CTCP Nhiên liệu Sài Gòn,Bán lẻ,HOSE,11.291.459
+NAV,CTCP Nam Việt,Bán lẻ,HOSE,8.000.000
+VGC,Tổng Công ty Viglacera - CTCP,Bán lẻ,HOSE,448.350.000
+SVC,CTCP Dịch vụ Tổng hợp Sài Gòn,Bán lẻ,HOSE,66.630.564
+HTC,CTCP Thương mại Hóc Môn,Bán lẻ,HNX,16.499.993
+CIA,CTCP Dịch vụ Sân bay Quốc tế Cam Ranh,Bán lẻ,HNX,19.709.904
+CTC,CTCP Tập đoàn Hoàng Kim Tây Nguyên,Bán lẻ,HNX,15.799.926
+SVN,CTCP Tập đoàn Vexilla Việt Nam,Bán lẻ,HNX,21.000.000
+TMC,CTCP Thương mại Xuất nhập khẩu Thủ Đức,Bán lẻ,HNX,12.400.000
+TMX,CTCP VICEM Thương mại Xi măng,Bán lẻ,HNX,6.000.000
+BMF,CTCP Vật liệu Xây dựng và Chất đốt Đồng Nai,Bán lẻ,UpCom,4.159.600
+VTJ,CTCP Thương mại và Đầu tư VI NA TA BA,Bán lẻ,HNX,11.400.000
+AMD,CTCP Đầu tư và Khoáng sản FLC Stone,Bán lẻ,UpCom,163.504.874
+GCB,CTCP Petec Bình Định,Bán lẻ,UpCom,4.039.147
+FHS,CTCP Phát hành Sách Thành phố Hồ Chí Minh,Bán lẻ,UpCom,12.751.462
+DVC,CTCP Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng,Bán lẻ,UpCom,10.793.670
+HFC,CTCP Xăng dầu HFC,Bán lẻ,UpCom,8.198.105
+HMG,CTCP Kim khí Hà Nội - VNSTEEL,Bán lẻ,UpCom,9.000.000
+LBC,CTCP Thương mại - Đầu tư Long Biên,Bán lẻ,UpCom,1.500.000
+NXT,CTCP Sản xuất và Cung ứng Vật liệu Xây dựng Kon Tum,Bán lẻ,UpCom,6.600.000
+PTH,CTCP Vận tải và Dịch vụ Petrolimex Hà Tây,Bán lẻ,UpCom,3.503.164
+PEQ,CTCP Thiết bị Xăng dầu Petrolimex,Bán lẻ,UpCom,4.965.514
+PNG,CTCP Thương mại Phú Nhuận,Bán lẻ,UpCom,9.000.000
+PIV,CTCP PIV,Bán lẻ,UpCom,17.324.942
+TLP,Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP,Bán lẻ,UpCom,236.600.000
+STH,CTCP Phát hành Sách Thái Nguyên,Bán lẻ,UpCom,19.500.000
+SAS,CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất,Bán lẻ,UpCom,133.481.310
+SAC,CTCP Xếp dỡ và Dịch vụ Cảng Sài Gòn,Vận tải và kho bãi,UpCom,4.050.000
+SAL,CTCP Trục vớt Cứu hộ Việt Nam,Vận tải và kho bãi,UpCom,8.310.000
+PTT,CTCP Vận tải Dầu khí Đông Dương,Vận tải và kho bãi,UpCom,10.000.000
+RAT,CTCP Vận tải và Thương mại Đường sắt,Vận tải và kho bãi,UpCom,5.921.841
+RCC,CTCP Tổng Công ty Công trình Đường sắt,Vận tải và kho bãi,UpCom,32.064.749
+QSP,CTCP Tân Cảng Quy Nhơn,Vận tải và kho bãi,UpCom,10.792.275
+SGP,CTCP Cảng Sài Gòn,Vận tải và kho bãi,UpCom,216.294.961
+SGS,CTCP Vận tải biển Sài Gòn,Vận tải và kho bãi,UpCom,14.420.000
+SHC,CTCP Hàng hải Sài Gòn,Vận tải và kho bãi,UpCom,4.309.550
+SHX,CTCP Sài Gòn Hỏa xa,Vận tải và kho bãi,UpCom,1.720.000
+SSG,CTCP Vận tải biển Hải Âu,Vận tải và kho bãi,UpCom,5.000.000
+STS,CTCP Dịch vụ Vận tải Sài Gòn,Vận tải và kho bãi,UpCom,2.768.221
+STT,CTCP Vận chuyển Sài Gòn Tourist,Vận tải và kho bãi,UpCom,8.000.000
+TCW,CTCP Kho Vận Tân Cảng,Vận tải và kho bãi,UpCom,19.991.020
+SWC,Tổng Công ty cổ phần Đường sông Miền Nam,Vận tải và kho bãi,UpCom,67.100.000
+SRT,CTCP Vận tải Đường sắt Sài Gòn,Vận tải và kho bãi,UpCom,50.310.000
+TOS,CTCP Dịch vụ biển Tân Cảng,Vận tải và kho bãi,UpCom,30.999.886
+TNP,CTCP Cảng Thị Nại,Vận tải và kho bãi,UpCom,7.100.000
+TR1,CTCP Vận Tải 1 Traco,Vận tải và kho bãi,UpCom,4.592.490
+TRS,CTCP Vận tải và Dịch vụ Hàng hải,Vận tải và kho bãi,UpCom,4.548.413
+TPS,CTCP Bến Bãi Vận tải Sài Gòn,Vận tải và kho bãi,UpCom,5.000.000
+PHP,CTCP Cảng Hải Phòng,Vận tải và kho bãi,UpCom,326.960.000
+PNP,CTCP Tân Cảng - Phú Hữu,Vận tải và kho bãi,UpCom,16.100.000
+PAP,CTCP Dầu khí Đầu tư Khai thác Cảng Phước An,Vận tải và kho bãi,UpCom,200.000.000
+PSN,CTCP Dịch Vụ Kỹ Thuật PTSC Thanh Hóa,Vận tải và kho bãi,UpCom,40.000.000
+PSP,CTCP Cảng Dịch vụ Dầu khí Đình Vũ,Vận tải và kho bãi,UpCom,40.000.000
+PDV,CTCP Vận Tải Và Tiếp Vận Phương Đông Việt,Vận tải và kho bãi,UpCom,25.109.986
+NWT,CTCP Vận tải Newway,Vận tải và kho bãi,UpCom,8.500.000
+NOS,CTCP Vận tải biển và Thương mại Phương Đông,Vận tải và kho bãi,UpCom,20.056.000
+NCS,CTCP Suất ăn Hàng không Nội Bài,Vận tải và kho bãi,UpCom,17.949.098
+MVN,Tổng Công ty Hàng hải Việt Nam - CTCP,Vận tải và kho bãi,UpCom,6.374.700
+NAS,CTCP Dịch vụ Hàng không Sân bay Nội Bài,Vận tải và kho bãi,UpCom,8.315.764
+WTC,CTCP Vận tải Thủy - Vinacomin,Vận tải và kho bãi,UpCom,10.000.000
+VTX,CTCP Vận tải Đa Phương Thức Vietranstimex,Vận tải và kho bãi,UpCom,20.972.321
+VTM,CTCP Vận tải và Đưa đón thợ mỏ - VINACOMIN,Vận tải và kho bãi,UpCom,3.279.797
+VTP,Tổng Công ty cổ phần Bưu chính Viettel,Vận tải và kho bãi,UpCom,113.217.237
+VST,CTCP Vận tải và Thuê tàu biển Việt Nam,Vận tải và kho bãi,UpCom,66.999.337
+VPA,CTCP Vận tải Hoá Dầu VP,Vận tải và kho bãi,UpCom,15.076.177
+VSG,CTCP Container Phía Nam,Vận tải và kho bãi,UpCom,11.044.000
+VLG,CTCP VIMC Logistics,Vận tải và kho bãi,UpCom,14.212.130
+VMT,CTCP Giao nhận Vận tải miền Trung,Vận tải và kho bãi,UpCom,3.150.000
+VNA,CTCP Vận tải Biển Vinaship,Vận tải và kho bãi,UpCom,20.000.000
+VIN,CTCP Giao nhận Kho vận Ngoại Thương Việt Nam,Vận tải và kho bãi,UpCom,25.500.000
+VGR,CTCP Cảng Xanh Vip,Vận tải và kho bãi,UpCom,63.250.000
+VFC,CTCP Vinafco,Vận tải và kho bãi,UpCom,34.000.000
+VFR,CTCP Vận tải và Thuê tàu,Vận tải và kho bãi,UpCom,15.000.000
+TUG,CTCP Lai Dắt và Vận tải Cảng Hải Phòng,Vận tải và kho bãi,UpCom,2.700.000
+TSG,CTCP Thông tin Tín hiệu Đường sắt Sài Gòn,Vận tải và kho bãi,UpCom,3.074.100
+TSJ,CTCP Du lịch Dịch vụ Hà Nội,Vận tải và kho bãi,UpCom,74.800.000
+ILA,CTCP ILA,Vận tải và kho bãi,UpCom,18.529.939
+ILC,CTCP Hợp tác Lao động với nước ngoài,Vận tải và kho bãi,UpCom,6.100.391
+ILS,CTCP Đầu tư Thương mại và Dịch vụ Quốc tế,Vận tải và kho bãi,UpCom,36.000.000
+ISG,CTCP Vận tải biển và Hợp tác Lao động Quốc tế,Vận tải và kho bãi,UpCom,8.800.000
+IST,CTCP ICD Tân Cảng Sóng Thần,Vận tải và kho bãi,UpCom,12.008.672
+HNB,CTCP Bến xe Hà Nội,Vận tải và kho bãi,UpCom,9.500.000
+HLR,CTCP Đường sắt Hà Lạng,Vận tải và kho bãi,UpCom,1.650.000
+HHG,CTCP Hoàng Hà,Vận tải và kho bãi,UpCom,34.896.354
+HHN,CTCP Vận tải và Dịch vụ Hàng hóa Hà Nội,Vận tải và kho bãi,UpCom,1.440.000
+HTR,CTCP Đường sắt Hà Thái,Vận tải và kho bãi,UpCom,1.500.700
+HRT,CTCP Vận tải Đường sắt Hà Nội,Vận tải và kho bãi,UpCom,80.058.970
+DSV,CTCP Đường sắt Vĩnh Phú,Vận tải và kho bãi,UpCom,1.229.579
+EMS,Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP,Vận tải và kho bãi,UpCom,20.999.440
+GTT,CTCP Thuận Thảo,Vận tải và kho bãi,UpCom,43.503.000
+DOP,CTCP Vận tải Xăng dầu Đồng Tháp,Vận tải và kho bãi,UpCom,4.719.950
+DNL,CTCP Logistics Cảng Đà Nẵng,Vận tải và kho bãi,UpCom,4.310.000
+DDH,CTCP Đảm bảo Giao thông Đường thủy Hải Phòng,Vận tải và kho bãi,UpCom,3.600.000
+DDM,CTCP Hàng Hải Đông Đô,Vận tải và kho bãi,UpCom,12.244.495
+CPI,CTCP Đầu tư Cảng Cái Lân,Vận tải và kho bãi,UpCom,36.505.000
+CQN,CTCP Cảng Quảng Ninh,Vận tải và kho bãi,UpCom,75.049.936
+CMP,CTCP Cảng Chân Mây,Vận tải và kho bãi,UpCom,32.405.415
+VNF,CTCP Vinafreight,Vận tải và kho bãi,HNX,31.715.880
+VNT,CTCP Giao nhận Vận tải Ngoại thương,Vận tải và kho bãi,HNX,16.699.497
+VSA,CTCP Đại lý Hàng hải Việt Nam,Vận tải và kho bãi,HNX,14.096.486
+VSM,CTCP Container Miền Trung,Vận tải và kho bãi,HNX,3.354.996
+WCS,CTCP Bến xe Miền Tây,Vận tải và kho bãi,HNX,2.500.000
+ACV,Tổng Công ty Cảng Hàng không Việt Nam - CTCP,Vận tải và kho bãi,UpCom,2.177.173.236
+BLN,CTCP Vận tải và Dịch vụ Liên Ninh,Vận tải và kho bãi,UpCom,5.000.000
+BSG,CTCP Xe khách Sài Gòn,Vận tải và kho bãi,UpCom,60.000.000
+CK8,CTCP Cơ khí 120,Vận tải và kho bãi,UpCom,3.000.000
+CCP,CTCP Cảng Cửa Cấm Hải Phòng,Vận tải và kho bãi,UpCom,2.400.000
+CCT,CTCP Cảng Cần Thơ,Vận tải và kho bãi,UpCom,28.480.000
+TOT,CTCP Transimex Logistics,Vận tải và kho bãi,HNX,5.495.000
+TJC,CTCP Dịch vụ Vận tải và Thương mại,Vận tải và kho bãi,HNX,8.600.000
+TTZ,CTCP Đầu tư Xây dựng và Công nghệ Tiến Trung,Vận tải và kho bãi,HNX,7.570.444
+VMS,CTCP Phát triển Hàng Hải,Vận tải và kho bãi,HNX,9.000.000
+VGP,CTCP Cảng Rau Quả,Vận tải và kho bãi,HNX,8.214.692
+PTS,CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng,Vận tải và kho bãi,HNX,5.568.000
+PGT,CTCP PGT Holdings,Vận tải và kho bãi,HNX,9.241.801
+PRC,CTCP Logistics Portserco,Vận tải và kho bãi,HNX,1.200.000
+PJC,CTCP Thương mại và Vận tải Petrolimex Hà Nội,Vận tải và kho bãi,HNX,7.326.928
+DS3,CTCP Quản lý Đường sông Số 3,Vận tải và kho bãi,HNX,10.669.730
+CCR,CTCP Cảng Cam Ranh,Vận tải và kho bãi,HNX,24.501.817
+CDN,CTCP Cảng Đà Nẵng,Vận tải và kho bãi,HNX,99.000.000
+CAG,CTCP Cảng An Giang,Vận tải và kho bãi,HNX,13.800.000
+HCT,CTCP Thương mại Dịch vụ Vận tải Xi măng Hải Phòng,Vận tải và kho bãi,HNX,2.016.385
+HMH,CTCP Hải Minh,Vận tải và kho bãi,HNX,13.199.847
+GIC,CTCP Đầu tư Dịch vụ và Phát triển Xanh,Vận tải và kho bãi,HNX,12.120.000
+DXP,CTCP Cảng Đoạn Xá,Vận tải và kho bãi,HNX,29.464.334
+DL1,CTCP Tập đoàn Alpha Seven,Vận tải và kho bãi,HNX,106.236.094
+MAC,CTCP Cung ứng và Dịch vụ Kỹ thuật Hàng Hải,Vận tải và kho bãi,HNX,15.139.745
+MAS,CTCP Dịch vụ Hàng không Sân bay Đà Nẵng,Vận tải và kho bãi,HNX,4.267.683
+NAP,CTCP Cảng Nghệ Tĩnh,Vận tải và kho bãi,HNX,21.517.200
+TCT,CTCP Cáp treo Núi Bà Tây Ninh,Vận tải và kho bãi,HOSE,12.788.000
+TCO,CTCP Vận tải Đa phương thức Duyên Hải,Vận tải và kho bãi,HOSE,18.711.000
+TCL,CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng,Vận tải và kho bãi,HOSE,30.158.436
+SKG,CTCP Tàu cao tốc Superdong - Kiên Giang,Vận tải và kho bãi,HOSE,63.331.735
+STG,CTCP Kho vận Miền Nam,Vận tải và kho bãi,HOSE,98.253.357
+TMS,CTCP Transimex,Vận tải và kho bãi,HOSE,121.749.845
+VIP,CTCP Vận tải Xăng dầu Vipco,Vận tải và kho bãi,HOSE,68.470.941
+VNS,CTCP Ánh Dương Việt Nam,Vận tải và kho bãi,HOSE,67.859.192
+VOS,CTCP Vận tải Biển Việt Nam,Vận tải và kho bãi,HOSE,140.000.000
+VJC,CTCP Hàng không Vietjet,Vận tải và kho bãi,HOSE,541.611.334
+VNL,CTCP Logistics Vinalink,Vận tải và kho bãi,HOSE,9.427.000
+BSC,CTCP Dịch vụ Bến Thành,Vận tải và kho bãi,HNX,3.150.747
+VSC,CTCP Container Việt Nam,Vận tải và kho bãi,HOSE,121.269.397
+VTO,CTCP Vận tải Xăng dầu Vitaco,Vận tải và kho bãi,HOSE,79.866.666
+NCT,CTCP Dịch vụ Hàng hóa Nội Bài,Vận tải và kho bãi,HOSE,26.166.940
+PJT,CTCP Vận tải Xăng dầu đường Thủy Petrolimex,Vận tải và kho bãi,HOSE,23.040.717
+PDN,CTCP Cảng Đồng Nai,Vận tải và kho bãi,HOSE,18.521.954
+SCS,CTCP Dịch vụ Hàng hóa Sài Gòn,Vận tải và kho bãi,HOSE,94.379.182
+SFI,CTCP Đại lý Vận tải SAFI,Vận tải và kho bãi,HOSE,23.816.046
+SGN,CTCP Phục vụ Mặt đất Sài Gòn,Vận tải và kho bãi,HOSE,33.581.691
+PVP,CTCP Vận tải Dầu khí Thái Bình Dương,Vận tải và kho bãi,HOSE,94.275.028
+PVT,Tổng Công ty cổ phần Vận tải Dầu khí,Vận tải và kho bãi,HOSE,323.651.246
+MHC,CTCP MHC,Vận tải và kho bãi,HOSE,41.406.964
+ILB,CTCP ICD Tân Cảng - Long Bình,Vận tải và kho bãi,HOSE,24.502.245
+HTV,CTCP Logistics Vicem,Vận tải và kho bãi,HOSE,13.104.000
+HVN,Tổng Công ty Hàng không Việt Nam - CTCP,Vận tải và kho bãi,HOSE,2.214.394.174
+HAH,CTCP Vận tải và Xếp dỡ Hải An,Vận tải và kho bãi,HOSE,70.344.667
+GSP,CTCP Vận tải Sản Phẩm Khí Quốc tế,Vận tải và kho bãi,HOSE,55.799.445
+GMD,CTCP Gemadept,Vận tải và kho bãi,HOSE,301.377.957
+DVP,CTCP Đầu tư và Phát triển Cảng Đình Vũ,Vận tải và kho bãi,HOSE,40.000.000
+ASG,CTCP Tập đoàn ASG,Vận tải và kho bãi,HOSE,75.653.891
+CLL,CTCP Cảng Cát Lái,Vận tải và kho bãi,HOSE,34.000.000
+CMG,CTCP Tập đoàn Công nghệ CMC,Công nghệ - Truyền thông,HOSE,150.596.032
+CTR,Tổng Công ty cổ phần Công trình Viettel,Công nghệ - Truyền thông,HOSE,114.385.879
+ELC,CTCP Công Nghệ - Viễn Thông Elcom,Công nghệ - Truyền thông,HOSE,58.778.843
+FPT,CTCP FPT,Công nghệ - Truyền thông,HOSE,1.104.331.622
+ICT,CTCP Viễn thông - Tin học Bưu điện,Công nghệ - Truyền thông,HOSE,32.185.000
+ITD,CTCP Công nghệ Tiên Phong,Công nghệ - Truyền thông,HOSE,24.533.591
+ADC,CTCP Mỹ thuật và Truyền thông,Công nghệ - Truyền thông,HNX,3.977.936
+BST,CTCP Sách và Thiết bị Bình Thuận,Công nghệ - Truyền thông,HNX,1.100.000
+BDB,CTCP Sách và Thiết bị Bình Định,Công nghệ - Truyền thông,HNX,1.126.474
+BED,CTCP Sách và Thiết bị Trường học Đà Nẵng,Công nghệ - Truyền thông,HNX,3.000.000
+KST,CTCP KASATI,Công nghệ - Truyền thông,HNX,5.992.020
+LBE,CTCP Sách và Thiết bị Trường học Long An,Công nghệ - Truyền thông,HNX,1.999.934
+EBS,CTCP Sách Giáo dục tại Thành phố Hà Nội,Công nghệ - Truyền thông,HNX,10.219.484
+ECI,CTCP Tập Đoàn ECI,Công nghệ - Truyền thông,HNX,1.860.000
+EID,CTCP Đầu tư và Phát triển Giáo dục Hà Nội,Công nghệ - Truyền thông,HNX,15.000.000
+HEV,CTCP Sách Đại học - Dạy nghề,Công nghệ - Truyền thông,HNX,1.000.000
+GLT,CTCP Kỹ thuật Điện Toàn cầu,Công nghệ - Truyền thông,HNX,10.049.528
+DST,CTCP Đầu tư Sao Thăng Long,Công nghệ - Truyền thông,HNX,32.300.000
+DAD,CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng,Công nghệ - Truyền thông,HNX,5.000.000
+DAE,CTCP Sách Giáo dục tại Thành phố Đà Nẵng,Công nghệ - Truyền thông,HNX,1.498.680
+PIA,CTCP Tin học Viễn thông Petrolimex,Công nghệ - Truyền thông,HNX,3.900.000
+ONE,CTCP Truyền thông Số 1,Công nghệ - Truyền thông,HNX,7.960.310
+SGD,CTCP Sách Giáo dục tại Thành phố Hồ Chí Minh,Công nghệ - Truyền thông,HNX,4.137.000
+QST,CTCP Sách và Thiết bị Trường học Quảng Ninh,Công nghệ - Truyền thông,HNX,3.240.000
+SED,CTCP Đầu tư và Phát triển Giáo dục Phương Nam,Công nghệ - Truyền thông,HNX,10.000.000
+TPH,CTCP In sách giáo khoa tại Thành phố Hà Nội,Công nghệ - Truyền thông,HNX,2.095.985
+STC,CTCP Sách và Thiết bị Trường học Thành phố Hồ Chí Minh,Công nghệ - Truyền thông,HNX,5.665.530
+SMN,CTCP Sách và Thiết bị Giáo dục Miền Nam,Công nghệ - Truyền thông,HNX,4.405.000
+CAB,CTCP Tổng Công ty Truyền hình Cáp Việt Nam,Công nghệ - Truyền thông,UpCom,45.745.876
+ABC,CTCP Truyền thông VMG,Công nghệ - Truyền thông,UpCom,20.393.000
+VTC,CTCP Viễn thông VTC,Công nghệ - Truyền thông,HNX,4.534.696
+CMT,CTCP Công nghệ Mạng và Truyền thông,Công nghệ - Truyền thông,UpCom,8.000.000
+FOC,CTCP Dịch vụ Trực tuyến FPT,Công nghệ - Truyền thông,UpCom,18.471.275
+FOX,CTCP Viễn thông FPT,Công nghệ - Truyền thông,UpCom,328.339.538
+EPH,CTCP Dịch vụ Xuất bản Giáo dục Hà Nội,Công nghệ - Truyền thông,UpCom,2.500.000
+HIG,CTCP Tập đoàn HIPT,Công nghệ - Truyền thông,UpCom,22.559.030
+MFS,CTCP Dịch vụ Kỹ thuật Mobifone,Công nghệ - Truyền thông,UpCom,7.062.979
+TTN,CTCP Công nghệ và Truyền thông Việt Nam,Công nghệ - Truyền thông,UpCom,36.727.500
+VGI,Tổng Công ty cổ phần Đầu tư Quốc tế Viettel,Công nghệ - Truyền thông,UpCom,3.043.811.200
+VIE,CTCP Công nghệ Viễn thông VITECO,Công nghệ - Truyền thông,UpCom,2.061.244
+VNB,CTCP Sách Việt Nam,Công nghệ - Truyền thông,UpCom,67.909.960
+NBE,CTCP Sách và Thiết bị Giáo dục Miền Bắc,Công nghệ - Truyền thông,UpCom,5.000.000
+PTP,CTCP Dịch vụ Viễn thông và In Bưu điện,Công nghệ - Truyền thông,UpCom,6.800.000
+PAI,CTCP Công nghệ thông tin Viễn thông và Tự động hóa Dầu Khí,Công nghệ - Truyền thông,UpCom,4.235.290
+PMT,CTCP Viễn thông TELVINA Việt Nam,Công nghệ - Truyền thông,UpCom,5.000.000
+TGP,CTCP Trường Phú,Công nghệ - Truyền thông,UpCom,10.000.000
+SBD,CTCP Công nghệ Sao Bắc Đẩu,Công nghệ - Truyền thông,UpCom,13.514.680
+SBS,CTCP Chứng khoán SBS,Tài chính và bảo hiểm,UpCom,146.607.600
+SGB,Ngân hàng TMCP Sài Gòn Công Thương,Tài chính và bảo hiểm,UpCom,308.000.000
+TIN,Công Ty Tài chính Cổ phần Tín Việt,Tài chính và bảo hiểm,UpCom,70.137.214
+TCI,CTCP Chứng khoán Thành Công,Tài chính và bảo hiểm,UpCom,100.979.982
+PHS,CTCP Chứng khoán Phú Hưng,Tài chính và bảo hiểm,UpCom,150.009.819
+PGB,Ngân hàng TMCP Xăng dầu Petrolimex,Tài chính và bảo hiểm,UpCom,300.000.000
+PVR,CTCP Đầu tư PVR Hà Nội,Tài chính và bảo hiểm,UpCom,53.100.913
+NAB,Ngân hàng TMCP Nam Á,Tài chính và bảo hiểm,UpCom,846.434.661
+VUA,CTCP Chứng khoán Stanley Brothers,Tài chính và bảo hiểm,UpCom,33.900.000
+VBB,Ngân hàng TMCP Việt Nam Thương Tín,Tài chính và bảo hiểm,UpCom,477.682.669
+VAB,Ngân hàng TMCP Việt Á,Tài chính và bảo hiểm,UpCom,539.960.043
+KLB,Ngân hàng TMCP Kiên Long,Tài chính và bảo hiểm,UpCom,365.281.878
+HSA,CTCP Hestia,Tài chính và bảo hiểm,UpCom,7.872.727
+DSC,CTCP Chứng khoán DSC,Tài chính và bảo hiểm,UpCom,100.000.000
+HAC,CTCP Chứng khoán Hải Phòng,Tài chính và bảo hiểm,UpCom,29.181.096
+CSI,CTCP Chứng khoán Kiến thiết Việt Nam,Tài chính và bảo hiểm,UpCom,16.800.000
+VNR,Tổng Công ty cổ phần Tái Bảo hiểm Quốc gia Việt Nam,Tài chính và bảo hiểm,HNX,150.737.130
+WSS,CTCP Chứng khoán Phố Wall,Tài chính và bảo hiểm,HNX,50.300.000
+ABI,CTCP Bảo hiểm Ngân hàng Nông nghiệp Việt Nam,Tài chính và bảo hiểm,UpCom,51.557.417
+ABW,CTCP Chứng khoán An Bình,Tài chính và bảo hiểm,UpCom,101.150.000
+AAS,CTCP Chứng khoán SmartInvest (AAS),Tài chính và bảo hiểm,UpCom,80.000.000
+ABB,Ngân hàng TMCP An Bình,Tài chính và bảo hiểm,UpCom,1.035.036.762
+AIC,Tổng Công ty Cổ phần Bảo hiểm Hàng không,Tài chính và bảo hiểm,UpCom,100.000.000
+BLI,Tổng Công ty cổ phần Bảo hiểm Bảo Long,Tài chính và bảo hiểm,UpCom,60.000.000
+BVB,Ngân hàng TMCP Bản Việt,Tài chính và bảo hiểm,UpCom,501.680.000
+BMS,CTCP Chứng khoán Bảo Minh,Tài chính và bảo hiểm,UpCom,60.989.375
+VIG,CTCP Chứng khoán Đầu tư tài chính Việt Nam,Tài chính và bảo hiểm,HNX,45.133.300
+TVC,CTCP Tập đoàn Quản lý Tài sản Trí Việt,Tài chính và bảo hiểm,HNX,118.610.670
+SHS,CTCP Chứng khoán Sài Gòn - Hà Nội,Tài chính và bảo hiểm,HNX,813.156.748
+PTI,Tổng Công ty cổ phần Bảo hiểm Bưu điện,Tài chính và bảo hiểm,HNX,80.395.709
+PVI,CTCP PVI,Tài chính và bảo hiểm,HNX,234.241.867
+NVB,Ngân hàng TMCP Quốc Dân,Tài chính và bảo hiểm,HNX,560.155.587
+PRE,Tổng Công ty cổ phần Tái bảo hiểm PVI,Tài chính và bảo hiểm,HNX,72.800.000
+PSI,CTCP Chứng khoán Dầu khí,Tài chính và bảo hiểm,HNX,59.841.300
+HBS,CTCP Chứng khoán Hòa Bình,Tài chính và bảo hiểm,HNX,32.999.980
+EVS,CTCP Chứng khoán Everest,Tài chính và bảo hiểm,HNX,103.000.400
+IVS,CTCP Chứng khoán Guotai Junan (Việt Nam),Tài chính và bảo hiểm,HNX,69.350.000
+IPA,CTCP Tập đoàn Đầu tư I.P.A,Tài chính và bảo hiểm,HNX,213.835.775
+MBS,CTCP Chứng khoán MB,Tài chính và bảo hiểm,HNX,380.593.118
+ART,CTCP Chứng khoán BOS,Tài chính và bảo hiểm,HNX,96.922.509
+APS,CTCP Chứng khoán Châu Á Thái Bình Dương,Tài chính và bảo hiểm,HNX,83.000.000
+BAB,Ngân hàng TMCP Bắc Á,Tài chính và bảo hiểm,HNX,813.386.340
+BVS,CTCP Chứng khoán Bảo Việt,Tài chính và bảo hiểm,HNX,72.233.937
+VPB,Ngân hàng TMCP Việt Nam Thịnh Vượng,Tài chính và bảo hiểm,HOSE,6.743.423.601
+VIX,CTCP Chứng khoán VIX,Tài chính và bảo hiểm,HOSE,669.444.725
+VND,CTCP Chứng khoán VNDIRECT,Tài chính và bảo hiểm,HOSE,1.217.844.009
+VIB,Ngân hàng TMCP Quốc tế Việt Nam,Tài chính và bảo hiểm,HOSE,2.107.672.945
+VDS,CTCP Chứng khoán Rồng Việt,Tài chính và bảo hiểm,HOSE,210.000.000
+VCI,CTCP Chứng khoán Vietcap,Tài chính và bảo hiểm,HOSE,437.500.000
+TVB,CTCP Chứng khoán Trí Việt,Tài chính và bảo hiểm,HOSE,112.097.019
+TVS,CTCP Chứng khoán Thiên Việt,Tài chính và bảo hiểm,HOSE,151.314.672
+VCB,Ngân hàng TMCP Ngoại thương Việt Nam,Tài chính và bảo hiểm,HOSE,4.732.516.571
+TPB,Ngân hàng TMCP Tiên Phong,Tài chính và bảo hiểm,HOSE,2.201.635.009
+SHB,Ngân hàng TMCP Sài Gòn - Hà Nội,Tài chính và bảo hiểm,HOSE,3.067.383.196
+SSB,Ngân hàng TMCP Đông Nam Á,Tài chính và bảo hiểm,HOSE,2.040.298.268
+SSI,CTCP Chứng khoán SSI,Tài chính và bảo hiểm,HOSE,1.491.130.137
+TCB,Ngân hàng TMCP Kỹ thương Việt Nam,Tài chính và bảo hiểm,HOSE,3.517.238.514
+STB,Ngân hàng TMCP Sài Gòn Thương Tín,Tài chính và bảo hiểm,HOSE,1.885.215.716
+MIG,Tổng Công ty cổ phần Bảo hiểm Quân Đội,Tài chính và bảo hiểm,HOSE,164.450.000
+MSB,Ngân hàng TMCP Hàng hải Việt Nam,Tài chính và bảo hiểm,HOSE,2.000.000.000
+MBB,Ngân hàng TMCP Quân Đội,Tài chính và bảo hiểm,HOSE,4.533.986.133
+LPB,Ngân hàng TMCP Bưu điện Liên Việt,Tài chính và bảo hiểm,HOSE,1.729.105.369
+HCM,CTCP Chứng khoán Thành phố Hồ Chí Minh,Tài chính và bảo hiểm,HOSE,458.052.367
+HDB,Ngân hàng TMCP Phát triển TP. HCM,Tài chính và bảo hiểm,HOSE,2.530.342.922
+ORS,CTCP Chứng khoán Tiên Phong,Tài chính và bảo hiểm,HOSE,200.000.000
+OCB,Ngân hàng TMCP Phương Đông,Tài chính và bảo hiểm,HOSE,1.369.882.863
+OGC,CTCP Tập đoàn Đại Dương,Tài chính và bảo hiểm,HOSE,300.000.000
+PGI,Tổng Công ty cổ phần Bảo hiểm Petrolimex,Tài chính và bảo hiểm,HOSE,110.896.796
+EVF,Công ty Tài chính Cổ phần Điện lực,Tài chính và bảo hiểm,HOSE,351.064.031
+E1VFVN30,Quỹ ETF DCVFMVN30,Tài chính và bảo hiểm,HOSE,421.200.000
+EIB,Ngân hàng TMCP Xuất nhập khẩu Việt Nam,Tài chính và bảo hiểm,HOSE,1.481.404.859
+FTS,CTCP Chứng khoán FPT,Tài chính và bảo hiểm,HOSE,214.564.987
+FUCTVGF3,Quỹ Đầu Tư Tăng Trưởng Thiên Việt 3,Tài chính và bảo hiểm,HOSE,19.900.800
+FUCTVGF4,Chứng chỉ Quỹ Đầu Tư Tăng Trưởng Thiên Việt 4,Tài chính và bảo hiểm,HOSE,20.060.000
+FUCVREIT,Quỹ đầu tư Bất động sản Techcom Việt Nam,Tài chính và bảo hiểm,HOSE,5.000.000
+FUEDCMID,Chứng chỉ Quỹ ETF DCVFMVNMIDCAP,Tài chính và bảo hiểm,HOSE,9.400.000
+FUEFCV50,Chứng chỉ Quỹ ETF FPT CAPITAL VNX50,Tài chính và bảo hiểm,HOSE,6.000.000
+FUEIP100,Chứng chỉ Quỹ ETF IPAAM VN100,Tài chính và bảo hiểm,HOSE,5.700.000
+FUEKIV30,Chứng chỉ Quỹ ETF KIM GROWTH VN30,Tài chính và bảo hiểm,HOSE,42.000.000
+FUEKIVFS,Chứng chỉ Quỹ ETF Kim Growth VNFINSELECT,Tài chính và bảo hiểm,HOSE,24.900.000
+FUEMAV30,Quỹ ETF MAFM VN30,Tài chính và bảo hiểm,HOSE,27.400.000
+FUEMAVND,Chứng chỉ Quỹ ETF MAFM VNDIAMOND,Tài chính và bảo hiểm,HOSE,14.300.000
+FUESSV30,Quỹ ETF SSIAM VN30,Tài chính và bảo hiểm,HOSE,7.800.000
+FUESSV50,Quỹ ETF SSIAM VNX50,Tài chính và bảo hiểm,HOSE,8.800.000
+FUESSVFL,Quỹ ETF SSIAM VNFIN LEAD,Tài chính và bảo hiểm,HOSE,238.600.000
+FUEVFVND,Quỹ ETF DCVFMVN DIAMOND,Tài chính và bảo hiểm,HOSE,795.600.000
+FUEVN100,Quỹ ETF VINACAPITALVN100,Tài chính và bảo hiểm,HOSE,18.500.000
+CTS,CTCP Chứng khoán Ngân hàng Công thương Việt Nam,Tài chính và bảo hiểm,HOSE,148.738.311
+CTG,Ngân hàng TMCP Công Thương Việt Nam,Tài chính và bảo hiểm,HOSE,4.805.750.609
+BIC,Tổng Công ty cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam,Tài chính và bảo hiểm,HOSE,117.276.895
+BID,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam,Tài chính và bảo hiểm,HOSE,5.058.523.816
+BVH,Tập đoàn Bảo Việt,Tài chính và bảo hiểm,HOSE,742.322.764
+BSI,CTCP Chứng khoán BIDV,Tài chính và bảo hiểm,HOSE,187.800.120
+BMI,Tổng Công ty cổ phần Bảo Minh,Tài chính và bảo hiểm,HOSE,109.623.985
+APG,CTCP Chứng khoán APG,Tài chính và bảo hiểm,HOSE,146.306.612
+ACB,Ngân hàng TMCP Á Châu,Tài chính và bảo hiểm,HOSE,3.884.050.358
+AGR,CTCP Chứng khoán Agribank,Tài chính và bảo hiểm,HOSE,215.391.309
+HDO,CTCP Hưng Đạo Container,Thuê và cho thuê,UpCom,16.959.879
+HEJ,Tổng Công ty Tư vấn Xây dựng Thủy lợi Việt Nam - CTCP,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,4.400.000
+HPT,CTCP Dịch vụ Công nghệ Tin học HPT,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,9.084.101
+DCH,CTCP Địa chính Hà Nội,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,2.880.000
+CNN,CTCP Tư vấn Công nghệ Thiết bị và Kiểm Định Xây dựng - Coninco,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,8.800.000
+EFI,CTCP Đầu tư Tài chính Giáo dục,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,10.880.000
+PPE,CTCP Tư vấn đầu tư PP Enterprise,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,2.000.000
+SDC,CTCP Tư vấn Sông Đà,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,2.609.710
+TV3,CTCP Tư vấn Xây dựng Điện 3,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,9.517.303
+TV4,CTCP Tư vấn Xây dựng Điện 4,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,19.846.016
+VNC,CTCP Tập đoàn Vinacontrol,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,10.499.955
+VLA,CTCP Đầu tư và Phát triển Công nghệ Văn Lang,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,1.997.998
+CCV,CTCP Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,1.800.000
+ADG,CTCP Clever Group,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HOSE,21.380.521
+IBC,CTCP Đầu tư Apax Holdings,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HOSE,83.150.661
+KPF,CTCP Đầu tư tài sản Koji,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HOSE,60.867.241
+TV2,CTCP Tư vấn Xây dựng Điện 2,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HOSE,67.526.165
+YEG,CTCP Tập đoàn Yeah1,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HOSE,31.279.968
+INC,CTCP Tư vấn Đầu tư IDICO,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,HNX,1.800.000
+USC,CTCP Khảo sát và Xây dựng -USCO,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,5.500.000
+VBG,CTCP Địa chất Việt Bắc - TKV,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,8.600.000
+UPC,CTCP Phát triển Công viên Cây xanh và Đô thị Vũng Tàu,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,3.400.000
+TVG,CTCP Tư vấn Đầu tư và Xây dựng Giao thông Vận tải,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,2.029.589
+TVH,CTCP Tư vấn Xây dựng công trình Hàng hải,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,4.004.000
+TVM,CTCP Tư vấn Đầu tư mỏ và Công Nghiệp - Vinacomin,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,2.400.000
+TV1,CTCP Tư vấn Xây dựng Điện 1,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,26.691.319
+VGV,Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,35.774.448
+VCT,CTCP Tư vấn Xây dựng Vinaconex,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,1.100.000
+VTK,CTCP Tư Vấn Và Dịch Vụ Viettel,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,8.622.777
+VWS,CTCP Nước và Môi Trường Việt Nam,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,3.600.000
+VNX,CTCP Quảng cáo và Hội chợ Thương mại,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,1.224.948
+VQC,CTCP Giám định - Vinacomin,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,3.599.580
+NAC,CTCP Tư vấn Xây dựng Tổng hợp,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,2.835.000
+ODE,CTCP Tập đoàn Truyền thông và Giải trí ODE,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,10.000.000
+NUE,CTCP Môi trường Đô thị Nha Trang,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,6.000.000
+PVE,Tổng Công ty Tư vấn thiết kế Dầu khí - CTCP,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,25.000.000
+ONW,CTCP Dịch vụ Một Thế Giới,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,2.000.000
+PID,CTCP Trang Trí Nội Thất Dầu khí,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,4.000.000
+PLE,CTCP Tư vấn Xây dựng Petrolimex,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,1.215.000
+SIG,CTCP Đầu tư và Thương mại Sông Đà,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,10.000.000
+QNT,Trung tâm Tư vấn xây dựng thị xã Điện Bàn,Dịch vụ chuyên môn - Khoa học - Kỹ thuật,UpCom,3.222.000
+AGE,CTCP Môi trường Đô thị An Giang,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,19.893.000
+CDH,CTCP Công trình Công cộng và Dịch vụ Du lịch Hải Phòng,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,2.000.000
+BTU,CTCP Công trình Đô thị Bến Tre,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,3.600.000
+BMD,CTCP Môi trường và Dịch vụ Đô thị Bình Thuận,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,2.753.280
+TTT,CTCP Du lịch - Thương mại Tây Ninh,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,HNX,4.570.210
+VCM,CTCP Nhân lực và Thương mại Vinaconex,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,HNX,3.000.000
+SDA,CTCP Simco Sông Đà,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,HNX,26.206.158
+DTB,CTCP Công trình Đô thị Bảo Lộc,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,1.558.248
+DUS,CTCP Dịch vụ Đô thị Đà Lạt,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,5.614.300
+MDA,CTCP Môi trường Đô thị Đông Anh,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,1.200.000
+MBN,CTCP Môi trường và Công trình đô thị Bắc Ninh,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,5.750.000
+SDV,CTCP Dịch vụ Sonadezi,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,5.000.000
+SZE,CTCP Môi trường Sonadezi,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,30.000.000
+TSD,CTCP Du lịch Trường Sơn COECCO,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,1.300.000
+NAU,CTCP Môi trường Đô thị Nghệ An,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,3.669.999
+MTH,CTCP Môi trường Đô thị Hà Đông,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,4.787.910
+MTV,CTCP Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,5.400.000
+MTB,CTCP Môi trường và Công trình Đô thị Tỉnh Thái Bình,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,6.278.259
+MND,CTCP Môi trường Nam Định,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,2.194.475
+MLC,CTCP Môi trường Đô thị Tỉnh Lào Cai,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,4.171.175
+MPY,CTCP Môi trường Đô thị Phú Yên,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,6.143.000
+MQB,CTCP Môi trường và Phát triển Đô thị Quảng Bình,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,3.675.675
+MQN,CTCP Môi trường đô thị Quảng Ngãi,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,5.133.645
+VTD,CTCP Du lịch Vietourist,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,12.000.000
+VLP,CTCP Công trình Công cộng Vĩnh Long,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,3.536.222
+VTR,CTCP Du lịch và Tiếp thị Giao thông Vận tải Việt Nam - Vietravel,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,29.294.833
+VEF,CTCP Trung tâm Hội chợ Triển lãm Việt Nam,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,166.604.050
+USD,CTCP Công trình Đô thị Sóc Trăng,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,5.600.000
+UMC,CTCP Công trình Đô thị Nam Định,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,1.841.617
+UDL,CTCP Đô thị và Môi trường Đắk Lắk,Dịch vụ hỗ trợ - Dịch vụ xử lý và tái chế rác thải,UpCom,6.620.000
+SRB,CTCP Tập đoàn Sara,Giáo dục và đào tạo,UpCom,8.500.000
+CAR,CTCP Tập đoàn Giáo dục Trí Việt,Giáo dục và đào tạo,UpCom,3.200.000
+CFM,CTCP Đầu tư CFM,Giáo dục và đào tạo,UpCom,2.000.000
+TNH,CTCP Bệnh viện Quốc tế Thái Nguyên,Dịch vụ chăm sóc sức khỏe,HOSE,95.874.610
+TTD,CTCP Bệnh viện tim Tâm Đức,Dịch vụ chăm sóc sức khỏe,UpCom,15.552.000
+VNZ,CTCP VNG,Nghệ thuật và dịch vụ giải trí,UpCom,35.844.262
+RGC,CTCP Đầu tư PV - Inconess,Nghệ thuật và dịch vụ giải trí,UpCom,89.123.600
+RIC,CTCP Quốc tế Hoàng Gia,Nghệ thuật và dịch vụ giải trí,UpCom,28.708.169
+DSN,CTCP Công viên nước Đầm Sen,Nghệ thuật và dịch vụ giải trí,HOSE,12.083.009
+HES,CTCP Dịch vụ Giải trí Hà Nội,Nghệ thuật và dịch vụ giải trí,UpCom,9.297.450
+DSP,CTCP Dịch vụ Du lịch Phú Thọ,Nghệ thuật và dịch vụ giải trí,UpCom,118.684.000
+DSD,CTCP DHC Suối Đôi,Nghệ thuật và dịch vụ giải trí,UpCom,36.600.000
+DXL,CTCP Du Lịch và Xuất nhập khẩu Lạng Sơn,Dịch vụ lưu trú và ăn uống,UpCom,3.957.900
+EIN,CTCP Đầu tư - Thương mại - Dịch vụ Điện Lực,Dịch vụ lưu trú và ăn uống,UpCom,45.407.161
+DNT,CTCP Du lịch Đồng Nai,Dịch vụ lưu trú và ăn uống,UpCom,7.459.675
+DLD,CTCP Du lịch Đắk Lắk,Dịch vụ lưu trú và ăn uống,UpCom,9.307.415
+HGT,CTCP Du lịch Hương Giang,Dịch vụ lưu trú và ăn uống,UpCom,20.000.000
+HOT,CTCP Du lịch Dịch vụ Hội An,Dịch vụ lưu trú và ăn uống,UpCom,8.000.000
+BTV,CTCP Dịch vụ Du lịch Bến Thành,Dịch vụ lưu trú và ăn uống,UpCom,25.000.000
+BCV,CTCP Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico,Dịch vụ lưu trú và ăn uống,UpCom,1.800.000
+SGH,CTCP Khách sạn Sài Gòn,Dịch vụ lưu trú và ăn uống,HNX,12.364.100
+OCH,CTCP One Capital Hospitality,Dịch vụ lưu trú và ăn uống,HNX,200.000.000
+DAH,CTCP Tập đoàn Khách sạn Đông Á,Dịch vụ lưu trú và ăn uống,HOSE,84.200.000
+NVT,CTCP Bất động sản Du lịch Ninh Vân Bay,Dịch vụ lưu trú và ăn uống,HOSE,90.500.000
+ATS,CTCP Tập Đoàn Dược Phẩm Atesco,Dịch vụ lưu trú và ăn uống,HNX,3.500.000
+VNG,CTCP Du lịch Thành Thành Công,Dịch vụ lưu trú và ăn uống,HOSE,97.276.608
+MTC,CTCP Dịch vụ Du lịch Mỹ Trà,Dịch vụ lưu trú và ăn uống,UpCom,5.200.000
+PDC,CTCP Du lịch Dầu khí Phương Đông,Dịch vụ lưu trú và ăn uống,UpCom,15.000.000
+VTG,CTCP Du lịch Tỉnh Bà Rịa - Vũng Tàu,Dịch vụ lưu trú và ăn uống,UpCom,18.644.500
+VIR,CTCP Du lịch Quốc tế Vũng Tàu,Dịch vụ lưu trú và ăn uống,UpCom,8.240.000
+CPH,CTCP Phục vụ Mai táng Hải Phòng,Dịch vụ khác,UpCom,4.400.000
+,,,,
