@@ -38,6 +38,7 @@ class Extract:
           return self.code
      def crawl_data(self ,code ,to_date : str, from_date : str, start : int, end : int):
           self.code = code[start:end]
+          print(f"Prepare crawl data {from_date} !")
           for stock_code in self.code:
                url = self.path_web.format(stock_code, from_date, to_date)
                try:
@@ -48,7 +49,7 @@ class Extract:
                     if len(json_x) != 0:
                          json_x = json_x[0]
                          print(f"Crawl data {json_x['code']} is success !")
-                         self.data.append(json_x)    
+                         self.data.append(json_x)
                     else:
                          print(f"Don't have data {stock_code} in {from_date} !")
                          self.miss_data.append(stock_code)
@@ -56,6 +57,8 @@ class Extract:
                     print("Can't connect the web !")
                     print(e)
                     return None
+          if len(self.data) == 0:
+               return None
           return self.data # Return list
         
 class Transform(Extract):

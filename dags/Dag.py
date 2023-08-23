@@ -2,7 +2,6 @@ from datetime import datetime,timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.providers.mysql.operators.mysql import MySqlOperator
-from pyspark.sql.functions import *
 from ETL import Extract,Transform,Load
 from datetime import datetime
 import os
@@ -100,16 +99,17 @@ default_args = {
      'retry_delay' : timedelta(minutes=2)
 }            
     
-with DAG(dag_id='Stock_Pipelines',
-    start_date=datetime(2023,8,16),
+with DAG(dag_id='Stock_Pipelines_2',
+    start_date=datetime(2023,8,22),
     schedule_interval="30 15 * * *",
     default_args =default_args,
     catchup = False ) as dag:
     
     #    Dags Extract
     dag_extract = Extract() # Functions of dags.ETL
-    to_date = from_date = datetime.strftime(datetime.now(),'%Y-%M-%d')
-
+    #to_date = from_date = datetime.strftime(datetime.now(),'%Y-%M-%d')
+    date_to = '2023-08-10'
+    date_from = date_to
 
     Extract_Stockcode = PythonOperator(task_id = 'Crawl_StockCode',
                                        python_callable=dag_extract.extract_stockcode)
